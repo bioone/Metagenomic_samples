@@ -1,0 +1,4946 @@
+SRR number	Sample type
+SRR12656875	river sediment
+SRR12656877	river sediment
+SRR12656878	river sediment
+SRR12656880	river sediment
+SRR12656881	river sediment
+SRR12656885	river sediment
+SRR3280896	river sediment
+SRR5215464	river sediment
+SRR5215466	river sediment
+SRR5535863	river sediment
+SRR5535864	river sediment
+SRR5535865	river sediment
+SRR5535868	river sediment
+SRR5535869	river sediment
+SRR5535870	river sediment
+SRR5535871	river sediment
+SRR5535881	river sediment
+SRR5535882	river sediment
+SRR5535883	river sediment
+SRR5535884	river sediment
+SRR5535885	river sediment
+SRR5535886	river sediment
+SRR5535887	river sediment
+SRR5535888	river sediment
+SRR5535889	river sediment
+SRR5535890	river sediment
+SRR6481338	river sediment
+SRR6481359	river sediment
+SRR6481365	river sediment
+SRR7760390	river sediment
+SRR19611647	aquaculture
+SRR19611648	aquaculture
+SRR19611655	aquaculture
+SRR19611656	aquaculture
+SRR19611657	aquaculture
+SRR19611658	aquaculture
+SRR19611659	aquaculture
+SRR19611660	aquaculture
+SRR19611661	aquaculture
+SRR19611662	aquaculture
+SRR19611663	aquaculture
+SRR19611664	aquaculture
+SRR18969721	river sediment
+SRR18969722	river sediment
+SRR18969727	estuarine sediment
+SRR18969728	estuarine sediment
+SRR18283707	river sediment
+SRR18283708	river sediment
+SRR18283709	river sediment
+SRR17848295	river sediment
+SRR17848296	river sediment
+SRR17848297	river sediment
+SRR17848298	river sediment
+SRR17848299	river sediment
+SRR17562723	river sediment
+SRR17562725	river sediment
+SRR17562726	river sediment
+SRR17562728	river sediment
+SRR17562730	river sediment
+SRR17562732	river sediment
+SRR17562734	river sediment
+SRR17562737	river sediment
+SRR17562739	river sediment
+SRR17562741	river sediment
+SRR17562743	river sediment
+SRR17562745	river sediment
+SRR17562747	river sediment
+SRR17562749	river sediment
+SRR17562751	river sediment
+SRR17562753	river sediment
+SRR16472893	estuarine sediment
+SRR16472894	estuarine sediment
+SRR16472896	estuarine sediment
+SRR16472897	estuarine sediment
+SRR16472898	estuarine sediment
+SRR16472899	estuarine sediment
+SRR16472900	estuarine sediment
+SRR16472901	estuarine sediment
+SRR16472902	estuarine sediment
+SRR16472903	estuarine sediment
+SRR16472904	estuarine sediment
+SRR16472905	estuarine sediment
+SRR16472906	estuarine sediment
+SRR16472907	estuarine sediment
+SRR16472908	estuarine sediment
+SRR16472909	estuarine sediment
+SRR16472910	estuarine sediment
+SRR16472912	estuarine sediment
+SRR16472913	estuarine sediment
+SRR16472914	estuarine sediment
+SRR16472915	estuarine sediment
+SRR16472916	estuarine sediment
+SRR16472917	estuarine sediment
+SRR16472918	estuarine sediment
+SRR16472919	estuarine sediment
+SRR16472920	estuarine sediment
+SRR16472921	estuarine sediment
+SRR16472922	estuarine sediment
+SRR16472923	estuarine sediment
+SRR16472924	estuarine sediment
+SRR16472925	estuarine sediment
+SRR16472926	estuarine sediment
+SRR16472927	estuarine sediment
+SRR16472928	estuarine sediment
+SRR16472929	estuarine sediment
+SRR16472930	estuarine sediment
+SRR16123807	forest soil
+SRR16123808	forest soil
+SRR16123809	forest soil
+SRR16123810	forest soil
+SRR16123811	forest soil
+SRR16123812	forest soil
+SRR16123813	forest soil
+SRR16123814	forest soil
+SRR16123815	forest soil
+SRR16085950	river sediment
+SRR16085951	river sediment
+SRR16085952	river sediment
+SRR16085953	river sediment
+SRR16085954	river sediment
+SRR16085955	river sediment
+SRR16085956	river sediment
+SRR16085957	river sediment
+SRR16085958	river sediment
+SRR15144437	estuarine sediment
+SRR15144438	estuarine sediment
+SRR14768607	estuarine sediment
+SRR14768608	estuarine sediment
+SRR14768609	estuarine sediment
+SRR14768610	estuarine sediment
+SRR14768611	estuarine sediment
+SRR14751589	river sediment
+SRR14751590	river sediment
+SRR14751593	river sediment
+SRR14751598	river sediment
+SRR14639171	river sediment
+SRR14639172	river sediment
+SRR14639179	river sediment
+SRR14639180	river sediment
+SRR14368543	freshwater
+SRR14368544	freshwater
+SRR14368545	freshwater
+SRR14368546	freshwater
+ERR5003150	river sediment
+ERR5003149	river sediment
+ERR5003148	river sediment
+ERR5003146	river sediment
+ERR5003145	river sediment
+ERR5003143	river sediment
+ERR5003142	river sediment
+ERR5003141	river sediment
+ERR5001871	river sediment
+ERR5001870	river sediment
+ERR5001869	river sediment
+ERR5001868	river sediment
+ERR5001867	river sediment
+ERR5001866	river sediment
+ERR5001864	river sediment
+ERR5001863	river sediment
+ERR5001862	river sediment
+SRR13164624	river sediment
+SRR13164625	river sediment
+SRR13164627	river sediment
+SRR13164628	river sediment
+SRR13164629	river sediment
+SRR13164630	river sediment
+SRR13164631	river sediment
+SRR13164632	river sediment
+SRR13164633	river sediment
+SRR13051708	mining
+SRR13051709	mining
+SRR13051710	mining
+SRR12825369	estuarine sediment
+SRR12825370	estuarine sediment
+SRR12825371	estuarine sediment
+SRR12825378	estuarine sediment
+SRR12825382	estuarine sediment
+SRR12825383	estuarine sediment
+SRR12825384	estuarine sediment
+SRR12825385	estuarine sediment
+SRR12825386	estuarine sediment
+SRR12825389	river sediment
+SRR12825387	estuarine sediment
+SRR12825388	estuarine sediment
+SRR12825390	estuarine sediment
+SRR12825391	estuarine sediment
+SRR12825392	estuarine sediment
+SRR12825393	estuarine sediment
+SRR12825394	estuarine sediment
+SRR12825395	estuarine sediment
+SRR12825396	estuarine sediment
+SRR12825397	estuarine sediment
+SRR12825398	river sediment
+SRR12825399	river sediment
+SRR12825400	river sediment
+SRR12825401	river sediment
+SRR12825402	river sediment
+SRR12825403	river sediment
+SRR12825404	river sediment
+SRR12825411	river sediment
+SRR12825415	estuarine sediment
+SRR12825416	estuarine sediment
+SRR12825417	estuarine sediment
+SRR12825418	estuarine sediment
+SRR12825419	estuarine sediment
+SRR12825420	estuarine sediment
+SRR12825421	estuarine sediment
+SRR12825422	river sediment
+SRR12825423	estuarine sediment
+SRR12825424	estuarine sediment
+SRR12825425	estuarine sediment
+SRR12825426	estuarine sediment
+SRR12825427	estuarine sediment
+SRR12825428	estuarine sediment
+SRR12825429	estuarine sediment
+SRR12825430	estuarine sediment
+SRR12825431	estuarine sediment
+SRR12825432	estuarine sediment
+SRR12825433	river sediment
+SRR12825434	river sediment
+ERR4603511	freshwater
+SRR12316794	river sediment
+ERR4147447	mining
+ERR4147385	mining
+ERR4147381	mining
+ERR4147380	mining
+ERR4147295	mining
+SRR11567519	river sediment
+SRR11567521	river sediment
+SRR11567526	river sediment
+SRR11567530	river sediment
+SRR11567537	river sediment
+SRR11567539	river sediment
+SRR10965836	river sediment
+SRR10965835	river sediment
+SRR10965834	river sediment
+SRR10965833	river sediment
+SRR10965832	river sediment
+SRR10965829	river sediment
+SRR10965828	river sediment
+SRR10965827	river sediment
+SRR10965826	river sediment
+SRR10965824	river sediment
+SRR10965823	river sediment
+SRR10965822	river sediment
+SRR10965182	river sediment
+SRR10965181	river sediment
+SRR10965086	river sediment
+SRR10965085	river sediment
+SRR10965084	river sediment
+SRR10965083	river sediment
+SRR10965082	river sediment
+SRR10965081	river sediment
+SRR10965080	river sediment
+SRR10965079	river sediment
+SRR10965078	river sediment
+SRR10965076	river sediment
+ERR2612536	river sediment
+SRR9924753	river sediment
+SRR9924754	river sediment
+SRR9924755	river sediment
+SRR9924756	river sediment
+SRR9924757	river sediment
+SRR9924758	river sediment
+SRR9924759	river sediment
+SRR9924760	river sediment
+SRR9924761	river sediment
+SRR9924762	river sediment
+SRR9924763	river sediment
+SRR9924764	river sediment
+SRR9924765	river sediment
+SRR9924766	river sediment
+SRR9924767	river sediment
+SRR9924768	river sediment
+SRR9924769	river sediment
+SRR9924770	river sediment
+SRR9924771	river sediment
+SRR9924772	river sediment
+SRR9924773	river sediment
+SRR9924774	river sediment
+SRR9924775	river sediment
+SRR9924776	river sediment
+SRR9924777	river sediment
+SRR9924778	river sediment
+SRR9924779	river sediment
+SRR9924780	river sediment
+SRR9924781	river sediment
+SRR9924782	river sediment
+SRR9924783	river sediment
+SRR9924784	river sediment
+SRR9924785	river sediment
+SRR9924786	river sediment
+SRR9924787	river sediment
+SRR9924788	river sediment
+SRR9924789	river sediment
+SRR9924790	river sediment
+SRR9924791	river sediment
+SRR9924792	river sediment
+SRR9924793	river sediment
+SRR9924794	river sediment
+SRR9924795	river sediment
+SRR9924796	river sediment
+SRR9924797	river sediment
+SRR9924798	river sediment
+SRR9924799	river sediment
+SRR9924800	river sediment
+SRR9924801	river sediment
+SRR9924802	river sediment
+SRR9924803	river sediment
+SRR9924804	river sediment
+SRR9924805	river sediment
+SRR9924806	river sediment
+SRR9924807	river sediment
+SRR9924808	river sediment
+SRR9924809	river sediment
+SRR9924810	river sediment
+SRR9924811	river sediment
+SRR9924812	river sediment
+SRR9924813	river sediment
+SRR9924814	river sediment
+SRR8868559	river sediment
+SRR8859388	river sediment
+SRR8859387	river sediment
+SRR8859357	river sediment
+SRR8859356	river sediment
+SRR8859111	river sediment
+SRR8837336	river sediment
+SRR8837334	river sediment
+SRR8830786	river sediment
+SRR8830787	river sediment
+SRR8830788	river sediment
+SRR8830789	river sediment
+SRR8830790	river sediment
+SRR8830791	river sediment
+SRR8830798	river sediment
+SRR8830799	river sediment
+SRR8815513	river sediment
+SRR8389946	river sediment
+SRR7244169	estuarine sediment
+SRR7990788	estuarine sediment
+SRR7990774	estuarine sediment
+SRR7963149	estuarine sediment
+SRR7963010	estuarine sediment
+SRR7963011	estuarine sediment
+SRR7963012	estuarine sediment
+SRR7963013	estuarine sediment
+SRR7962754	estuarine sediment
+SRR7962755	estuarine sediment
+SRR7962756	estuarine sediment
+SRR7962757	estuarine sediment
+SRR7962759	estuarine sediment
+SRR7962760	estuarine sediment
+SRR7962750	estuarine sediment
+SRR7962747	estuarine sediment
+SRR7962864	estuarine sediment
+SRR7962866	estuarine sediment
+SRR7962867	estuarine sediment
+SRR7962868	estuarine sediment
+SRR7963038	estuarine sediment
+SRR7963039	estuarine sediment
+SRR7963040	estuarine sediment
+SRR7963043	estuarine sediment
+SRR7963107	estuarine sediment
+SRR7500465	estuarine sediment
+SRR7500322	estuarine sediment
+SRR7499980	estuarine sediment
+SRR7499979	estuarine sediment
+SRR7499366	estuarine sediment
+SRR7499317	estuarine sediment
+SRR7499255	estuarine sediment
+SRR7498056	estuarine sediment
+SRR7498050	estuarine sediment
+SRR7498049	estuarine sediment
+SRR7498026	estuarine sediment
+SRR7497948	estuarine sediment
+SRR7497947	estuarine sediment
+SRR7497946	estuarine sediment
+SRR7497733	estuarine sediment
+SRR7497728	estuarine sediment
+SRR7497727	estuarine sediment
+SRR7497722	estuarine sediment
+SRR7497680	estuarine sediment
+SRR7497679	estuarine sediment
+SRR7497678	estuarine sediment
+SRR7497677	estuarine sediment
+SRR7497675	estuarine sediment
+SRR7092010	river sediment
+SRR7091984	river sediment
+SRR7091814	river sediment
+SRR7091795	river sediment
+SRR7052557	river sediment
+SRR7052556	river sediment
+SRR7052555	river sediment
+SRR7052553	river sediment
+SRR7052549	river sediment
+SRR7052513	river sediment
+SRR7052512	river sediment
+SRR7052454	river sediment
+SRR7052453	river sediment
+SRR7052452	river sediment
+SRR7052451	river sediment
+SRR7052449	river sediment
+SRR7052432	river sediment
+SRR7052431	river sediment
+SRR7052430	river sediment
+SRR7052325	river sediment
+SRR7052324	river sediment
+SRR7052321	river sediment
+SRR7052322	river sediment
+SRR7052323	river sediment
+SRR7052300	river sediment
+SRR7052302	river sediment
+SRR7052303	river sediment
+SRR7052204	river sediment
+SRR7052205	river sediment
+SRR7052206	river sediment
+SRR7052207	river sediment
+SRR7052208	river sediment
+SRR7052196	river sediment
+SRR7052195	river sediment
+SRR7051729	river sediment
+SRR7051673	river sediment
+SRR7051674	river sediment
+SRR7051675	river sediment
+SRR7051676	river sediment
+SRR7051677	river sediment
+SRR8859111	river sediment
+SRR7051574	river sediment
+SRR7051580	river sediment
+SRR7051579	river sediment
+SRR7051573	river sediment
+SRR7051572	river sediment
+SRR7051571	river sediment
+SRR7051350	river sediment
+SRR7051334	river sediment
+SRR7051333	river sediment
+SRR7051324	river sediment
+SRR7007744	river sediment
+SRR7007743	river sediment
+SRR7007636	river sediment
+SRR7007285	river sediment
+SRR7007154	river sediment
+SRR7007152	river sediment
+SRR7007151	river sediment
+SRR7007124	river sediment
+SRR7007121	river sediment
+SRR7007045	river sediment
+SRR7006882	river sediment
+SRR7006849	river sediment
+SRR7006830	river sediment
+SRR7006759	river sediment
+SRR7006713	river sediment
+SRR7006499	river sediment
+SRR7006460	river sediment
+SRR7006411	river sediment
+SRR7006398	river sediment
+SRR7006324	river sediment
+SRR7052195	river sediment
+SRR6814546	river sediment
+SRR6814547	river sediment
+SRR6824001	river sediment
+SRR6824002	river sediment
+SRR6824003	river sediment
+SRR6824004	river sediment
+SRR6824005	river sediment
+SRR6824006	river sediment
+SRR6824007	river sediment
+SRR6824009	river sediment
+SRR6824010	river sediment
+SRR6824011	river sediment
+SRR6824012	river sediment
+SRR6824013	river sediment
+SRR6824000	river sediment
+SRR6823999	river sediment
+SRR6823998	river sediment
+SRR6823962	river sediment
+SRR6823963	river sediment
+SRR6823964	river sediment
+SRR6823965	river sediment
+SRR6823966	river sediment
+SRR6823967	river sediment
+SRR6823968	river sediment
+SRR6823969	river sediment
+SRR6823970	river sediment
+SRR6823971	river sediment
+SRR6823972	river sediment
+SRR6823973	river sediment
+SRR6823974	river sediment
+SRR6823975	river sediment
+SRR6823976	river sediment
+SRR6823977	river sediment
+SRR6823978	river sediment
+SRR6823979	river sediment
+SRR6823693	river sediment
+SRR6823690	river sediment
+SRR6823689	river sediment
+SRR6466472	river sediment
+SRR6466473	river sediment
+SRR6466474	river sediment
+SRR6466475	river sediment
+SRR6448452	river sediment
+SRR6448453	river sediment
+SRR6448454	river sediment
+SRR6448455	river sediment
+SRR6448456	river sediment
+SRR6448457	river sediment
+SRR6448458	river sediment
+SRR6448459	river sediment
+SRR6448460	river sediment
+SRR6448461	river sediment
+SRR6448368	river sediment
+SRR6448369	river sediment
+SRR6448370	river sediment
+SRR6448371	river sediment
+SRR6448372	river sediment
+SRR6448373	river sediment
+SRR6448375	river sediment
+SRR6448376	river sediment
+SRR6448377	river sediment
+SRR6448378	river sediment
+SRR6448379	river sediment
+SRR6448380	river sediment
+SRR6448381	river sediment
+SRR6448382	river sediment
+SRR6448383	river sediment
+SRR6448384	river sediment
+SRR6448364	river sediment
+SRR6448365	river sediment
+SRR6448366	river sediment
+SRR6448367	river sediment
+SRR6448354	river sediment
+SRR6448353	river sediment
+SRR6448250	river sediment
+SRR6448245	river sediment
+SRR6448246	river sediment
+SRR6448247	river sediment
+SRR6448248	river sediment
+SRR6448249	river sediment
+SRR6448226	river sediment
+SRR6448215	river sediment
+SRR6448216	river sediment
+SRR6448217	river sediment
+SRR6448218	river sediment
+SRR6436056	river sediment
+SRR6436046	river sediment
+SRR6436045	river sediment
+SRR6423772	WTTP sludge
+SRR5373744	river sediment
+SRR5373743	river sediment
+SRR6262816	river sediment
+SRR6262817	river sediment
+SRR6262818	river sediment
+SRR6262796	river sediment
+SRR6262717	river sediment
+SRR6262718	river sediment
+SRR6262719	river sediment
+SRR6262720	river sediment
+SRR6262721	river sediment
+SRR6262722	river sediment
+SRR6262723	river sediment
+SRR6262724	river sediment
+SRR6262643	river sediment
+SRR6262644	river sediment
+SRR6262645	river sediment
+SRR6262646	river sediment
+SRR6262647	river sediment
+SRR6262648	river sediment
+SRR6262588	river sediment
+SRR6262555	river sediment
+SRR6262549	river sediment
+SRR6262550	river sediment
+SRR6262551	river sediment
+SRR6262552	river sediment
+SRR6262553	river sediment
+SRR6262533	river sediment
+SRR6262532	river sediment
+SRR6262526	river sediment
+SRR6262527	river sediment
+SRR6262247	river sediment
+SRR6262248	river sediment
+SRR6262250	river sediment
+SRR6262251	river sediment
+SRR6262252	river sediment
+SRR6262253	river sediment
+SRR6262254	river sediment
+SRR6262255	river sediment
+SRR6262256	river sediment
+SRR6262225	river sediment
+SRR6262226	river sediment
+SRR6262227	river sediment
+SRR6262228	river sediment
+SRR6262230	river sediment
+SRR6262231	river sediment
+SRR6047969	river sediment
+SRR5468957	river sediment
+SRR5468956	river sediment
+SRR5468955	river sediment
+SRR5468912	river sediment
+SRR5468112	river sediment
+SRR5468104	river sediment
+SRR5468105	river sediment
+SRR5468106	river sediment
+SRR5468107	river sediment
+SRR5468108	river sediment
+SRR5468109	river sediment
+SRR5468111	river sediment
+SRR5468112	river sediment
+SRR2190405	river sediment
+ERR1035442	river sediment
+ERR688341	estuarine sediment
+ERR688342	estuarine sediment
+ERR688343	estuarine sediment
+ERR688344	estuarine sediment
+ERR688345	estuarine sediment
+ERR688346	estuarine sediment
+ERR688347	estuarine sediment
+ERR688348	estuarine sediment
+ERR688349	estuarine sediment
+ERR688350	estuarine sediment
+ERR688351	estuarine sediment
+ERR688352	estuarine sediment
+ERR688353	estuarine sediment
+ERR688354	estuarine sediment
+ERR688355	estuarine sediment
+ERR688356	estuarine sediment
+SRR2016485	river sediment
+SRR942942	mining
+SRR942943	mining
+SRR21053862	lake sediment
+SRR21053863	lake water
+SRR19666933	lake sediment
+SRR19666934	lake sediment
+SRR19666935	lake sediment
+SRR19166072	lake sediment
+SRR19166073	lake sediment
+SRR19166074	lake sediment
+SRR19166075	lake sediment
+SRR19166076	lake sediment
+SRR19166077	lake sediment
+SRR19166078	lake sediment
+SRR19166079	lake sediment
+SRR19166080	lake sediment
+SRR19166081	lake sediment
+SRR19403493	lake water
+SRR19116067	lake sediment
+SRR19116069	lake sediment
+SRR19116071	lake sediment
+SRR19116074	lake sediment
+SRR17234065	lake sediment
+SRR17234066	lake sediment
+SRR17234067	lake sediment
+SRR17234068	lake sediment
+SRR17234069	lake sediment
+SRR17234070	lake sediment
+SRR17234071	lake sediment
+SRR17234072	lake sediment
+SRR17234073	lake sediment
+SRR17234074	lake sediment
+SRR17234075	lake sediment
+SRR17165200	lake sediment
+SRR17165201	lake sediment
+SRR17165202	lake sediment
+SRR17165203	lake sediment
+SRR17165204	lake sediment
+SRR17165205	lake sediment
+SRR17165206	lake sediment
+SRR17165207	lake sediment
+SRR17165208	lake sediment
+SRR17165209	lake sediment
+SRR17165210	lake sediment
+SRR17165211	lake sediment
+SRR17165212	lake sediment
+SRR17165213	lake sediment
+SRR17165214	lake sediment
+SRR17165215	lake sediment
+SRR17021127	lake sediment
+SRR16631310	lake sediment
+SRR16631311	lake sediment
+SRR16631312	lake sediment
+ERR3804373	lake sediment
+ERR3804374	lake sediment
+ERR3804375	lake sediment
+ERR3804376	lake sediment
+ERR3804377	lake sediment
+ERR3804378	lake sediment
+ERR4334725	lake sediment
+ERR4334726	lake sediment
+ERR4334727	lake sediment
+ERR4334728	lake sediment
+ERR4334729	lake sediment
+ERR4334730	lake sediment
+ERR4334731	lake sediment
+ERR4334732	lake sediment
+ERR4334733	lake sediment
+ERR4334734	lake sediment
+ERR4334735	lake sediment
+ERR4334736	lake sediment
+SRR15677213	lake sediment
+SRR15677214	lake sediment
+SRR15677215	lake sediment
+SRR15677216	lake sediment
+SRR15677217	lake sediment
+SRR15677218	lake sediment
+SRR15677219	lake sediment
+SRR15677220	lake sediment
+SRR15677221	lake sediment
+SRR15677222	lake sediment
+SRR15677223	lake sediment
+SRR15677224	lake sediment
+SRR15677225	lake sediment
+SRR15677226	lake sediment
+SRR15677227	lake sediment
+SRR15677228	lake sediment
+SRR15677229	lake sediment
+SRR15677230	lake sediment
+SRR15677231	lake sediment
+SRR15677232	lake sediment
+SRR15677233	lake sediment
+SRR15677234	lake sediment
+SRR15677235	lake sediment
+SRR15677236	lake sediment
+SRR15677237	lake sediment
+SRR15677238	lake sediment
+SRR15677239	lake sediment
+SRR15677240	lake sediment
+SRR15677241	lake sediment
+SRR14921307	lake sediment
+SRR14921308	lake sediment
+SRR14887730	lake sediment
+SRR14887731	lake sediment
+SRR14887732	lake sediment
+SRR14887733	lake sediment
+SRR14887734	lake sediment
+SRR14887735	lake sediment
+SRR14887736	lake sediment
+SRR14887737	lake sediment
+SRR14887738	lake sediment
+SRR14887739	lake sediment
+SRR14699977	lake sediment
+SRR14699978	lake sediment
+SRR14699980	lake sediment
+SRR14699981	lake sediment
+SRR14699982	lake sediment
+SRR14699983	lake sediment
+SRR14459454	lake sediment
+SRR14459455	lake sediment
+SRR14459456	lake sediment
+SRR14459457	lake sediment
+SRR14459458	lake sediment
+SRR14459459	lake sediment
+SRR14459460	lake sediment
+SRR14459461	lake sediment
+SRR13959606	lake sediment
+SRR13759108	lake sediment
+SRR13759109	lake sediment
+SRR13759110	lake sediment
+SRR13759111	lake sediment
+SRR13759112	lake sediment
+SRR13759113	lake sediment
+SRR13759114	lake sediment
+SRR13759115	lake sediment
+SRR13674313	lake sediment
+SRR13674314	lake sediment
+SRR13674315	lake sediment
+ERR3890090	lake sediment
+ERR3890091	lake sediment
+ERR3890092	lake sediment
+ERR3890093	lake sediment
+ERR3890094	lake sediment
+ERR3890095	lake sediment
+ERR3890096	lake sediment
+ERR3890097	lake sediment
+ERR3890098	lake sediment
+ERR3890099	lake sediment
+ERR3890100	lake sediment
+ERR3890101	lake sediment
+ERR3890102	lake sediment
+ERR3890103	lake sediment
+ERR3890104	lake sediment
+ERR3890105	lake sediment
+ERR3890106	lake sediment
+ERR3890107	lake sediment
+ERR3890108	lake sediment
+ERR3890109	lake sediment
+ERR3890110	lake sediment
+SRR12685285	lake sediment
+SRR12685286	lake sediment
+SRR12685287	lake sediment
+SRR12685288	lake sediment
+SRR12685289	lake sediment
+SRR12685290	lake sediment
+SRR12685291	lake sediment
+SRR12685292	lake sediment
+SRR12685293	lake sediment
+SRR12685294	lake sediment
+SRR12685295	lake sediment
+SRR12685296	lake sediment
+SRR12685297	lake sediment
+SRR12685298	lake sediment
+SRR12685299	lake sediment
+SRR12685300	lake sediment
+SRR12685301	lake sediment
+SRR12685302	lake sediment
+SRR12685303	lake sediment
+SRR12685304	lake sediment
+SRR12685305	lake sediment
+SRR12685306	lake sediment
+SRR12685307	lake sediment
+SRR12685308	lake sediment
+SRR12685309	lake sediment
+SRR12685310	lake sediment
+SRR12685311	lake sediment
+SRR12685312	lake sediment
+SRR12685313	lake sediment
+SRR12685314	lake sediment
+SRR12685315	lake sediment
+SRR12685316	lake sediment
+SRR12685317	lake sediment
+SRR12685318	lake sediment
+SRR12685319	lake sediment
+SRR12685320	lake sediment
+SRR12667571	lake sediment
+SRR12667570	lake sediment
+SRR12667569	lake sediment
+SRR12667427	lake sediment
+SRR12667319	lake sediment
+SRR12667318	lake sediment
+SRR12667203	lake sediment
+SRR12667202	lake sediment
+SRR12667201	lake sediment
+SRR12667042	lake sediment
+SRR12667023	lake sediment
+SRR12601633	lake sediment
+SRR12601634	lake sediment
+SRR12601635	lake sediment
+SRR12594517	lake sediment
+SRR12594518	lake sediment
+ERR4195022	lake sediment
+ERR4194904	lake sediment
+ERR4194902	lake sediment
+ERR4193361	lake sediment
+ERR4193250	lake sediment
+ERR4193251	lake sediment
+ERR4193252	lake sediment
+ERR4193253	lake sediment
+ERR4193254	lake sediment
+SRR11935581	lake sediment
+SRR11849544	lake sediment
+SRR11849443	lake sediment
+SRR11849440	lake sediment
+SRR11849220	lake sediment
+SRR11849211	lake sediment
+SRR11848694	lake sediment
+SRR11848695	lake sediment
+SRR11848696	lake sediment
+SRR11848697	lake sediment
+SRR11848494	lake sediment
+SRR11848491	lake sediment
+SRR11848431	lake sediment
+SRR11848394	lake sediment
+SRR11848270	lake sediment
+ERR3772643	lake sediment
+ERR3772644	lake sediment
+ERR3772645	lake sediment
+ERR3772646	lake sediment
+ERR3772647	lake sediment
+ERR3772648	lake sediment
+SRR11310428	lake sediment
+SRR11310429	lake sediment
+SRR11310430	lake sediment
+SRR11310431	lake sediment
+SRR10556100	lake sediment
+SRR10556087	lake sediment
+SRR10556086	lake sediment
+SRR10555843	lake sediment
+SRR10555794	lake sediment
+SRR10555795	lake sediment
+SRR10555796	lake sediment
+SRR10555797	lake sediment
+SRR10555798	lake sediment
+SRR10555799	lake sediment
+SRR10555779	lake sediment
+SRR10555780	lake sediment
+SRR10555772	lake sediment
+SRR10555732	lake sediment
+SRR10555727	lake sediment
+SRR10555728	lake sediment
+SRR10555301	lake sediment
+SRR10032896	lake sediment
+SRR10032891	lake sediment
+SRR9952628	lake sediment
+SRR9952629	lake sediment
+SRR9952630	lake sediment
+SRR9952631	lake sediment
+SRR9952632	lake sediment
+SRR9952633	lake sediment
+SRR9952634	lake sediment
+SRR9952635	lake sediment
+SRR8652706	lake sediment
+SRR8652707	lake sediment
+SRR8652708	lake sediment
+SRR8652709	lake sediment
+SRR8652710	lake sediment
+SRR8652711	lake sediment
+SRR8652712	lake sediment
+SRR8652713	lake sediment
+SRR8539650	lake sediment
+SRR7760390	lake sediment
+SRR7760391	lake sediment
+SRR7760396	lake sediment
+SRR7760393	lake sediment
+SRR7629274	lake sediment
+SRR7629275	lake sediment
+SRR7629276	lake sediment
+SRR7629277	lake sediment
+SRR7629278	lake sediment
+SRR7629281	lake sediment
+SRR7629282	lake sediment
+SRR7083929	lake sediment
+SRR7083931	lake sediment
+SRR7083934	lake sediment
+SRR3151633	lake sediment
+SRR6159086	lake sediment
+SRR6155504	lake sediment
+SRR6155509	lake sediment
+SRR6155503	lake sediment
+SRR6155487	lake sediment
+SRR6155418	lake sediment
+SRR5747948	lake sediment
+SRR5570991	WTTP sludge
+SRR5570995	WTTP sludge
+SRR5571005	river water
+SRR5571007	river water
+SRR5571008	WTTP sludge
+SRR5571009	WTTP sludge
+SRR5571010	river water
+SRR5571011	WTTP sludge
+SRR5571003	WTTP sludge
+SRR5570992	WTTP sludge
+SRR5570993	WTTP sludge
+SRR5570994	WTTP sludge
+SRR5535863	lake sediment
+SRR5535864	lake sediment
+SRR5535865	lake sediment
+SRR5535866	lake sediment
+SRR5535867	lake sediment
+SRR5535868	lake sediment
+SRR5535869	lake sediment
+SRR5535870	lake sediment
+SRR5535871	lake sediment
+SRR5535872	lake sediment
+SRR5535877	lake water
+SRR5535881	lake sediment
+SRR5535882	lake sediment
+SRR5535883	lake sediment
+SRR5535884	lake sediment
+SRR5535885	lake sediment
+SRR5535886	lake sediment
+SRR5535887	lake sediment
+SRR5535888	lake sediment
+SRR5535890	lake sediment
+SRR5468441	lake sediment
+SRR5468439	lake sediment
+SRR5468437	lake sediment
+SRR5468436	lake sediment
+SRR5468435	lake sediment
+SRR5468434	lake sediment
+SRR5468433	lake sediment
+SRR5468432	lake sediment
+SRR5468431	lake sediment
+SRR5468430	lake sediment
+SRR5468428	lake sediment
+SRR5468427	lake sediment
+SRR5468426	lake sediment
+SRR5468425	lake sediment
+SRR5468424	lake sediment
+SRR5468423	lake sediment
+SRR5468422	lake sediment
+SRR5468420	lake sediment
+ERR1843312	lake sediment
+SRR5272498	lake sediment
+SRR5272491	lake sediment
+SRR5272489	lake sediment
+SRR5272259	lake sediment
+SRR5272222	lake sediment
+SRR5215466	lake sediment
+SRR5215464	lake sediment
+ERR1294727	forest soil
+ERR1726993	lake sediment
+ERR1725848	lake sediment
+ERR1560020	lake sediment
+ERR1560014	lake sediment
+ERR1560013	lake sediment
+SRR3280906	lake sediment
+SRR2989655	lake sediment
+SRR2986055	lake sediment
+ERR476713	lake sediment
+SRR18316270	lake sediment
+SRR18316271	lake sediment
+SRR18316272	lake sediment
+SRR18316273	lake sediment
+SRR18316274	lake sediment
+SRR18316275	lake sediment
+SRR18316276	lake sediment
+SRR18316277	lake sediment
+SRR18316278	lake sediment
+SRR18316279	lake sediment
+SRR18316280	lake sediment
+SRR18316281	lake sediment
+SRR12656875	lake sediment
+SRR12656876	lake sediment
+SRR12656877	lake sediment
+SRR12656878	lake sediment
+SRR12656879	lake sediment
+SRR12656880	lake sediment
+SRR12656881	lake sediment
+SRR12656882	lake sediment
+SRR12656883	lake sediment
+SRR12656884	lake sediment
+SRR12656885	lake sediment
+SRR12656886	lake sediment
+SRR5831669	aquaculture
+SRR21397094	lake sediment
+SRR21397095	lake sediment
+SRR15860090	lake sediment
+SRR15860091	lake sediment
+SRR15860092	lake sediment
+SRR15860093	lake sediment
+SRR15860094	lake sediment
+SRR15860095	lake sediment
+SRR15860096	lake sediment
+SRR15860097	lake sediment
+SRR15860098	lake sediment
+SRR15860099	lake sediment
+SRR15860100	lake sediment
+SRR15860101	lake sediment
+SRR15860102	lake sediment
+SRR15860103	lake sediment
+SRR15860104	lake sediment
+SRR15860105	lake sediment
+SRR20218958	estuarine sediment
+SRR20218959	estuarine sediment
+SRR20218960	estuarine sediment
+SRR20218961	estuarine sediment
+SRR20218962	estuarine sediment
+SRR20218963	estuarine sediment
+SRR20218964	estuarine sediment
+SRR20218965	estuarine sediment
+SRR20218966	estuarine sediment
+SRR20218967	estuarine sediment
+SRR20218968	estuarine sediment
+SRR20218969	estuarine sediment
+SRR20218970	estuarine sediment
+SRR20218971	estuarine sediment
+SRR20218972	estuarine sediment
+SRR19627606	estuarine sediment
+SRR19627607	estuarine sediment
+SRR19627608	estuarine sediment
+SRR19627609	estuarine sediment
+SRR19627610	estuarine sediment
+SRR19627611	estuarine sediment
+SRR19627612	estuarine sediment
+SRR19627613	estuarine sediment
+SRR19627614	estuarine sediment
+SRR19627615	estuarine sediment
+SRR19627616	estuarine sediment
+SRR19627617	estuarine sediment
+SRR19627618	estuarine sediment
+SRR18644948	estuarine sediment
+SRR18644949	estuarine sediment
+SRR18644950	estuarine sediment
+SRR18644951	estuarine sediment
+SRR18644952	estuarine sediment
+SRR18644953	estuarine sediment
+SRR18644954	estuarine sediment
+SRR18644955	estuarine sediment
+SRR18644956	estuarine sediment
+SRR18644957	estuarine sediment
+SRR18313726	estuarine sediment
+SRR18313727	estuarine sediment
+SRR18313728	estuarine sediment
+SRR18313729	estuarine sediment
+SRR18313730	estuarine sediment
+SRR18313731	estuarine sediment
+SRR18313732	estuarine sediment
+SRR18313733	estuarine sediment
+SRR18313734	estuarine sediment
+SRR18313735	estuarine sediment
+SRR18313736	estuarine sediment
+SRR18313737	estuarine sediment
+SRR18313738	estuarine sediment
+SRR18313739	estuarine sediment
+SRR18313740	estuarine sediment
+SRR11793863	estuarine sediment
+SRR11793864	estuarine sediment
+SRR7088793	estuarine sediment
+SRR7088794	estuarine sediment
+SRR7088795	estuarine sediment
+SRR6470350	estuarine sediment
+SRR6470358	estuarine sediment
+SRR6470407	estuarine sediment
+SRR6470408	estuarine sediment
+SRR21120080	forest soil
+SRR21120083	forest soil
+SRR21120084	forest soil
+SRR20446810	forest soil
+SRR20446811	forest soil
+SRR20446812	forest soil
+SRR20446813	forest soil
+SRR20446814	forest soil
+SRR20446815	forest soil
+SRR19747141	forest soil
+SRR19747142	forest soil
+SRR19747143	forest soil
+SRR19747144	forest soil
+SRR19747145	forest soil
+SRR19747146	forest soil
+SRR19747147	forest soil
+SRR19747148	forest soil
+SRR19747149	forest soil
+SRR19747150	forest soil
+SRR19747151	forest soil
+SRR19747152	forest soil
+SRR19747153	forest soil
+SRR19747154	forest soil
+SRR19747155	forest soil
+SRR19747156	forest soil
+SRR19747157	forest soil
+SRR19747158	forest soil
+SRR19747159	forest soil
+SRR19747160	forest soil
+SRR19663812	forest soil
+ERR9527609	forest soil
+ERR9527610	forest soil
+ERR9527611	forest soil
+ERR9527612	forest soil
+ERR9527613	forest soil
+ERR9527614	forest soil
+ERR9527615	forest soil
+ERR9527597	forest soil
+SRR18636061	forest soil
+SRR18636062	forest soil
+SRR18636063	forest soil
+SRR18636064	forest soil
+SRR18636065	forest soil
+SRR18636066	forest soil
+SRR18029981	forest soil
+SRR18029982	forest soil
+SRR18029983	forest soil
+SRR18029984	forest soil
+SRR18029985	forest soil
+SRR17841891	forest soil
+ERR1762354	forest soil
+ERR1762353	forest soil
+ERR1762352	forest soil
+ERR1762351	forest soil
+ERR1762350	forest soil
+ERR1762349	forest soil
+ERR1762348	forest soil
+ERR1762347	forest soil
+ERR1762346	forest soil
+ERR1762345	forest soil
+ERR1762344	forest soil
+ERR1762343	forest soil
+ERR1762342	forest soil
+ERR1762341	forest soil
+ERR1762340	forest soil
+ERR1762339	forest soil
+ERR1762338	forest soil
+ERR1762337	forest soil
+ERR1762336	forest soil
+ERR1762335	forest soil
+ERR1762334	forest soil
+ERR1762333	forest soil
+ERR1762332	forest soil
+ERR1762331	forest soil
+ERR1762330	forest soil
+ERR1762329	forest soil
+ERR1762328	forest soil
+ERR1762327	forest soil
+ERR1762326	forest soil
+ERR1762325	forest soil
+ERR1762324	forest soil
+ERR1762323	forest soil
+ERR1762322	forest soil
+ERR1762321	forest soil
+ERR1762320	forest soil
+ERR1762319	forest soil
+ERR1762318	forest soil
+ERR1762317	forest soil
+ERR1762316	forest soil
+ERR1762315	forest soil
+ERR1762314	forest soil
+ERR1762313	forest soil
+ERR1762312	forest soil
+ERR1762311	forest soil
+ERR1762310	forest soil
+ERR1762309	forest soil
+ERR1762308	forest soil
+ERR1762307	forest soil
+ERR1762306	forest soil
+ERR1762305	forest soil
+ERR1762304	forest soil
+ERR1762303	forest soil
+ERR1762302	forest soil
+ERR1762301	forest soil
+ERR1762300	forest soil
+ERR1762299	forest soil
+ERR1762298	forest soil
+ERR1762297	forest soil
+ERR1762296	forest soil
+ERR1762295	forest soil
+ERR1762294	forest soil
+ERR1762293	forest soil
+ERR1762292	forest soil
+ERR1762291	forest soil
+ERR1762290	forest soil
+ERR1762289	forest soil
+ERR1762288	forest soil
+ERR1762287	forest soil
+ERR1762286	forest soil
+ERR1762285	forest soil
+ERR1762284	forest soil
+ERR1762283	forest soil
+ERR1762282	forest soil
+ERR1762281	forest soil
+ERR1762280	forest soil
+ERR1762279	forest soil
+ERR1762278	forest soil
+ERR1762277	forest soil
+ERR1762276	forest soil
+ERR1762275	forest soil
+ERR1762274	forest soil
+ERR1762273	forest soil
+ERR1762272	forest soil
+ERR1762271	forest soil
+ERR1762270	forest soil
+ERR1762269	forest soil
+ERR1762268	forest soil
+ERR1762267	forest soil
+ERR1762266	forest soil
+ERR1762265	forest soil
+ERR1762264	forest soil
+ERR1762263	forest soil
+ERR1762262	forest soil
+ERR1762261	forest soil
+ERR1762260	forest soil
+ERR1762259	forest soil
+ERR1762258	forest soil
+ERR1762257	forest soil
+ERR1762256	forest soil
+ERR1762255	forest soil
+ERR1762254	forest soil
+ERR1762253	forest soil
+ERR1762252	forest soil
+ERR1762251	forest soil
+ERR1762250	forest soil
+ERR1762249	forest soil
+ERR1762248	forest soil
+ERR1762247	forest soil
+ERR1762246	forest soil
+ERR1762245	forest soil
+ERR1762244	forest soil
+ERR1762243	forest soil
+ERR1762242	forest soil
+ERR1762241	forest soil
+ERR1762240	forest soil
+ERR1762239	forest soil
+ERR1762238	forest soil
+ERR1762237	forest soil
+ERR1762236	forest soil
+ERR1762235	forest soil
+ERR1762234	forest soil
+ERR1762233	forest soil
+ERR1762232	forest soil
+ERR1762231	forest soil
+ERR1762230	forest soil
+ERR1762229	forest soil
+ERR1762228	forest soil
+ERR1762227	forest soil
+ERR1762226	forest soil
+ERR1762225	forest soil
+ERR1762224	forest soil
+ERR1762223	forest soil
+ERR1762222	forest soil
+ERR1762221	forest soil
+ERR1762220	forest soil
+ERR1762219	forest soil
+ERR1762218	forest soil
+ERR1762217	forest soil
+ERR1762216	forest soil
+ERR1762215	forest soil
+ERR1762214	forest soil
+ERR1762213	forest soil
+ERR1762212	forest soil
+ERR1762211	forest soil
+ERR1762210	forest soil
+ERR1762209	forest soil
+ERR1762208	forest soil
+ERR1762207	forest soil
+ERR1762206	forest soil
+ERR1762205	forest soil
+ERR1762204	forest soil
+ERR1762203	forest soil
+ERR1762202	forest soil
+ERR1762201	forest soil
+ERR1762200	forest soil
+ERR1762199	forest soil
+ERR1762198	forest soil
+ERR1762197	forest soil
+ERR1762196	forest soil
+ERR1762195	forest soil
+ERR1762194	forest soil
+ERR5766906	freshwater wetland sediment
+ERR5766684	freshwater wetland sediment
+ERR5766685	freshwater wetland sediment
+ERR5766686	freshwater wetland sediment
+ERR5766687	freshwater wetland sediment
+ERR5766688	freshwater wetland sediment
+ERR5766669	freshwater wetland sediment
+ERR5766667	freshwater wetland sediment
+ERR5766664	freshwater wetland sediment
+ERR5766586	freshwater wetland sediment
+ERR5766526	freshwater wetland sediment
+ERR5762359	freshwater wetland sediment
+ERR5762329	freshwater wetland sediment
+ERR5758133	freshwater wetland sediment
+ERR5758132	freshwater wetland sediment
+ERR5757922	freshwater wetland sediment
+ERR5757695	freshwater wetland sediment
+ERR5757662	freshwater wetland sediment
+ERR5757377	freshwater wetland sediment
+ERR5757362	freshwater wetland sediment
+SRR17401453	freshwater wetland sediment
+SRR17401454	freshwater wetland sediment
+SRR17401455	freshwater wetland sediment
+SRR17401461	freshwater wetland sediment
+SRR17401462	freshwater wetland sediment
+SRR17401463	freshwater wetland sediment
+SRR17401464	freshwater wetland sediment
+SRR16596689	forest soil
+SRR16596690	forest soil
+SRR16596691	forest soil
+SRR16327320	forest soil
+SRR16327321	forest soil
+SRR16327322	forest soil
+SRR16016017	forest soil
+SRR16016018	forest soil
+SRR16016020	forest soil
+SRR16016021	forest soil
+SRR16016022	forest soil
+SRR16016023	forest soil
+SRR15377920	forest soil
+SRR15377921	forest soil
+SRR15377922	forest soil
+SRR15377923	forest soil
+SRR15377924	forest soil
+SRR15377925	forest soil
+SRR15377926	forest soil
+SRR15377927	forest soil
+SRR15377928	forest soil
+SRR15377929	forest soil
+SRR15377930	forest soil
+SRR15377931	forest soil
+SRR15377932	forest soil
+SRR15377933	forest soil
+SRR15377934	forest soil
+SRR15377935	forest soil
+SRR15377936	forest soil
+SRR15377937	forest soil
+SRR15377938	forest soil
+SRR15377939	forest soil
+SRR15377940	forest soil
+SRR15377941	forest soil
+SRR15377942	forest soil
+SRR15377943	forest soil
+SRR15377944	forest soil
+SRR15377945	forest soil
+SRR15377946	forest soil
+SRR15377947	forest soil
+SRR15377948	forest soil
+SRR15377949	forest soil
+SRR15377950	forest soil
+SRR15377951	forest soil
+SRR15377952	forest soil
+SRR15377953	forest soil
+SRR15377954	forest soil
+SRR15377955	forest soil
+SRR15377956	forest soil
+SRR15377957	forest soil
+SRR15377958	forest soil
+SRR14986177	forest soil
+SRR14986179	forest soil
+SRR14986175	forest soil
+SRR14572917	estuarine sediment
+SRR14569887	forest soil
+SRR14569888	forest soil
+SRR14569889	forest soil
+SRR14569890	forest soil
+SRR14569891	forest soil
+SRR14569892	forest soil
+SRR14569894	forest soil
+SRR14569895	forest soil
+SRR14569896	forest soil
+SRR14569897	forest soil
+SRR14569898	forest soil
+SRR14569899	forest soil
+SRR14569900	forest soil
+SRR14569931	forest soil
+SRR14569932	forest soil
+SRR14569934	forest soil
+SRR14569935	forest soil
+SRR14569947	forest soil
+SRR14569948	forest soil
+SRR14085585	forest soil
+SRR14085586	forest soil
+SRR14085587	forest soil
+SRR14085588	forest soil
+SRR14085589	forest soil
+SRR14085590	forest soil
+SRR14085591	forest soil
+SRR14085592	forest soil
+SRR14085593	forest soil
+SRR14085594	forest soil
+ERR4392701	forest soil
+ERR4392702	forest soil
+ERR4392703	forest soil
+ERR4392704	forest soil
+ERR4392705	forest soil
+ERR4392706	forest soil
+ERR4392707	forest soil
+ERR4392708	forest soil
+ERR4392709	forest soil
+ERR4392710	forest soil
+ERR4392711	forest soil
+ERR4392712	forest soil
+ERR4392713	forest soil
+ERR4392714	forest soil
+ERR4392715	forest soil
+ERR4392716	forest soil
+ERR4392717	forest soil
+ERR4392718	forest soil
+ERR4392719	forest soil
+ERR4392720	forest soil
+ERR4392721	forest soil
+ERR4392722	forest soil
+ERR4392723	forest soil
+ERR4392724	forest soil
+ERR4392725	forest soil
+ERR4392726	forest soil
+ERR4392727	forest soil
+ERR4392728	forest soil
+ERR4392729	forest soil
+ERR4392730	forest soil
+SRR13786996	forest soil
+SRR13786997	forest soil
+SRR13786998	forest soil
+SRR13786999	forest soil
+SRR13787000	forest soil
+SRR13787001	forest soil
+SRR13787002	forest soil
+SRR13787003	forest soil
+SRR13781756	forest soil
+SRR13781757	forest soil
+SRR13781758	forest soil
+SRR13781585	forest soil
+SRR13781586	forest soil
+SRR13781587	forest soil
+SRR13781414	forest soil
+SRR13781415	forest soil
+SRR13780018	forest soil
+SRR13780019	forest soil
+SRR13780020	forest soil
+SRR13621567	forest soil
+SRR13621568	forest soil
+SRR13296318	forest soil
+SRR13296319	forest soil
+SRR13296320	forest soil
+SRR13296321	forest soil
+SRR13296322	forest soil
+SRR13296326	forest soil
+SRR13202123	forest soil
+SRR13202124	forest soil
+SRR13201976	forest soil
+SRR13201962	forest soil
+SRR13201920	forest soil
+SRR13201919	forest soil
+SRR13201613	forest soil
+SRR13201614	forest soil
+SRR13201615	forest soil
+SRR13201616	forest soil
+SRR13201617	forest soil
+SRR13201618	forest soil
+SRR13201821	forest soil
+SRR13201822	forest soil
+SRR13201824	forest soil
+SRR13201825	forest soil
+SRR13201612	forest soil
+SRR13201604	forest soil
+SRR13201605	forest soil
+SRR13201552	forest soil
+SRR13201553	forest soil
+SRR13201562	forest soil
+SRR13201563	forest soil
+SRR12951230	forest soil
+SRR12951261	forest soil
+SRR12951262	forest soil
+SRR12951263	forest soil
+SRR13021852	forest soil
+SRR13021853	forest soil
+SRR12951266	forest soil
+SRR12951267	forest soil
+SRR13021854	forest soil
+SRR12951269	forest soil
+SRR12951270	forest soil
+SRR12951271	forest soil
+SRR13021855	forest soil
+SRR13021902	forest soil
+SRR13021904	forest soil
+SRR13021940	forest soil
+SRR13021941	forest soil
+SRR13021957	forest soil
+SRR13021960	forest soil
+SRR10998589	forest soil
+SRR10998590	forest soil
+SRR10998591	forest soil
+SRR10998592	forest soil
+SRR10998593	forest soil
+SRR10998558	forest soil
+SRR5476985	freshwater wetland sediment
+SRR5476650	freshwater wetland sediment
+SRR19666936	freshwater wetland sediment
+SRR19666937	freshwater wetland sediment
+SRR19666938	freshwater wetland sediment
+SRR19666939	freshwater wetland sediment
+SRR19666940	freshwater wetland sediment
+SRR5246785	freshwater wetland sediment
+SRR5246787	freshwater wetland sediment
+SRR5246790	freshwater wetland sediment
+SRR5246791	freshwater wetland sediment
+SRR5198900	freshwater wetland sediment
+SRR5198901	freshwater wetland sediment
+SRR5198902	freshwater wetland sediment
+SRR5198903	freshwater wetland sediment
+SRR20746675	freshwater wetland sediment
+SRR20746676	freshwater wetland sediment
+SRR20746677	freshwater wetland sediment
+SRR20746678	freshwater wetland sediment
+SRR20746679	freshwater wetland sediment
+SRR20746680	freshwater wetland sediment
+SRR20746681	freshwater wetland sediment
+SRR20746682	freshwater wetland sediment
+SRR20746683	freshwater wetland sediment
+SRR20746684	freshwater wetland sediment
+SRR20746685	freshwater wetland sediment
+SRR20746686	freshwater wetland sediment
+SRR20746687	freshwater wetland sediment
+SRR20746688	freshwater wetland sediment
+SRR20746689	freshwater wetland sediment
+SRR20746690	freshwater wetland sediment
+SRR20746691	freshwater wetland sediment
+SRR20746692	freshwater wetland sediment
+SRR20746693	freshwater wetland sediment
+SRR20746694	freshwater wetland sediment
+SRR20746695	freshwater wetland sediment
+SRR20746696	freshwater wetland sediment
+SRR20746697	freshwater wetland sediment
+SRR20746698	freshwater wetland sediment
+SRR18694249	freshwater wetland sediment
+SRR18694250	freshwater wetland sediment
+SRR17651685	freshwater wetland sediment
+SRR17651686	freshwater wetland sediment
+SRR17651687	freshwater wetland sediment
+SRR17651688	freshwater wetland sediment
+SRR17651689	freshwater wetland sediment
+ERR5766907	freshwater wetland sediment
+ERR5766908	freshwater wetland sediment
+ERR5766909	freshwater wetland sediment
+ERR5766910	freshwater wetland sediment
+ERR5766911	freshwater wetland sediment
+ERR5766912	freshwater wetland sediment
+ERR5766913	freshwater wetland sediment
+ERR5766914	freshwater wetland sediment
+ERR5766670	freshwater wetland sediment
+ERR5766671	freshwater wetland sediment
+ERR5766672	freshwater wetland sediment
+ERR5766673	freshwater wetland sediment
+ERR5766674	freshwater wetland sediment
+ERR5766675	freshwater wetland sediment
+ERR5766676	freshwater wetland sediment
+ERR5766677	freshwater wetland sediment
+ERR5766678	freshwater wetland sediment
+ERR5766679	freshwater wetland sediment
+ERR5766680	freshwater wetland sediment
+ERR5766681	freshwater wetland sediment
+ERR5766682	freshwater wetland sediment
+ERR5766683	freshwater wetland sediment
+ERR5766520	freshwater wetland sediment
+ERR5766521	freshwater wetland sediment
+ERR5766522	freshwater wetland sediment
+ERR5766523	freshwater wetland sediment
+ERR5766524	freshwater wetland sediment
+ERR5766525	freshwater wetland sediment
+ERR5766493	freshwater wetland sediment
+ERR5763226	freshwater wetland sediment
+ERR5762504	freshwater wetland sediment
+ERR5762505	freshwater wetland sediment
+ERR5762868	freshwater wetland sediment
+ERR5763222	freshwater wetland sediment
+ERR5762296	freshwater wetland sediment
+ERR5762297	freshwater wetland sediment
+ERR5762298	freshwater wetland sediment
+ERR5762299	freshwater wetland sediment
+(PRJEB44414) freshwater wetland sediment
+SRR15532675	freshwater wetland sediment
+SRR15532676	freshwater wetland sediment
+SRR15532677	freshwater wetland sediment
+SRR15532678	freshwater wetland sediment
+SRR15532679	freshwater wetland sediment
+SRR15532680	freshwater wetland sediment
+SRR15532681	freshwater wetland sediment
+SRR15532682	freshwater wetland sediment
+SRR15400729	freshwater wetland sediment
+SRR15400730	freshwater wetland sediment
+SRR15400731	freshwater wetland sediment
+SRR14454004	lake water
+SRR14454008	lake water
+SRR14454009	lake water
+SRR14454005	freshwater wetland sediment
+SRR14454010	freshwater wetland sediment
+SRR14454013	freshwater wetland sediment
+SRR14454014	lake water
+SRR14454015	freshwater wetland sediment
+SRR14454018	lake water
+SRR14454019	freshwater wetland sediment
+SRR14454022	lake water
+SRR14454023	freshwater wetland sediment
+SRR13296330	freshwater wetland sediment
+SRR13296331	freshwater wetland sediment
+SRR13296332	freshwater wetland sediment
+SRR12846150	freshwater wetland sediment
+SRR12846151	freshwater wetland sediment
+SRR12418379	freshwater wetland sediment
+SRR12418380	freshwater wetland sediment
+SRR12418381	freshwater wetland sediment
+SRR12418382	freshwater wetland sediment
+SRR11837387	freshwater wetland sediment
+SRR11837388	freshwater wetland sediment
+SRR11837389	freshwater wetland sediment
+SRR11837390	freshwater wetland sediment
+SRR11837370	freshwater wetland sediment
+SRR11837300	freshwater wetland sediment
+SRR11837301	freshwater wetland sediment
+SRR11837302	freshwater wetland sediment
+SRR11837213	freshwater wetland sediment
+SRR11837214	freshwater wetland sediment
+SRR11837216	freshwater wetland sediment
+SRR11734659	estuarine sediment
+SRR11734660	estuarine sediment
+SRR11734617	estuarine sediment
+SRR11734618	estuarine sediment
+SRR11734633	estuarine sediment
+SRR11734634	estuarine sediment
+SRR11734648	estuarine sediment
+SRR11734649	estuarine sediment
+SRR11668419	freshwater wetland sediment
+SRR11668400	freshwater wetland sediment
+SRR11668386	freshwater wetland sediment
+SRR11341399	freshwater wetland sediment
+SRR11070432	freshwater wetland sediment
+SRR10968283	freshwater wetland sediment
+SRR10968273	freshwater wetland sediment
+SRR10968274	freshwater wetland sediment
+SRR10968275	freshwater wetland sediment
+SRR10968276	freshwater wetland sediment
+SRR10968277	freshwater wetland sediment
+SRR10968278	freshwater wetland sediment
+SRR10968279	freshwater wetland sediment
+SRR10968280	freshwater wetland sediment
+SRR10968281	freshwater wetland sediment
+SRR10968282	freshwater wetland sediment
+SRR10968270	freshwater wetland sediment
+SRR10968271	freshwater wetland sediment
+SRR10968272	freshwater wetland sediment
+SRR10968218	freshwater wetland sediment
+SRR10968219	freshwater wetland sediment
+SRR10968211	freshwater wetland sediment
+SRR10968221	freshwater wetland sediment
+SRR10968222	freshwater wetland sediment
+SRR10968223	freshwater wetland sediment
+SRR10968224	freshwater wetland sediment
+SRR10968168	freshwater wetland sediment
+SRR10968162	freshwater wetland sediment
+SRR10968147	freshwater wetland sediment
+SRR10968148	freshwater wetland sediment
+SRR10968149	freshwater wetland sediment
+SRR10968150	freshwater wetland sediment
+SRR10968151	freshwater wetland sediment
+SRR10968141	freshwater wetland sediment
+SRR10968153	freshwater wetland sediment
+SRR10968155	freshwater wetland sediment
+SRR10968156	freshwater wetland sediment
+SRR10968158	freshwater wetland sediment
+SRR10375808	freshwater wetland sediment
+SRR10260005	agriculture
+SRR10260007	agriculture
+SRR10260011	agriculture
+SRR10260012	agriculture
+SRR9691018	freshwater wetland sediment
+SRR9691019	freshwater wetland sediment
+SRR9691020	freshwater wetland sediment
+SRR9691021	freshwater wetland sediment
+SRR9691022	freshwater wetland sediment
+SRR9691023	freshwater wetland sediment
+SRR9691024	freshwater wetland sediment
+SRR9691025	freshwater wetland sediment
+SRR9691026	freshwater wetland sediment
+SRR9691027	freshwater wetland sediment
+SRR9691028	freshwater wetland sediment
+SRR9691029	freshwater wetland sediment
+SRR9691030	freshwater wetland sediment
+SRR9691031	freshwater wetland sediment
+SRR9691032	freshwater wetland sediment
+SRR9691033	freshwater wetland sediment
+SRR9691034	freshwater wetland sediment
+SRR9691035	freshwater wetland sediment
+SRR9691036	freshwater wetland sediment
+SRR9691037	freshwater wetland sediment
+SRR9691038	freshwater wetland sediment
+SRR9691039	freshwater wetland sediment
+SRR9691040	freshwater wetland sediment
+SRR9691041	freshwater wetland sediment
+SRR9691042	freshwater wetland sediment
+SRR9691043	freshwater wetland sediment
+SRR9691044	freshwater wetland sediment
+SRR9691045	freshwater wetland sediment
+SRR9691046	freshwater wetland sediment
+SRR9691047	freshwater wetland sediment
+SRR9691048	freshwater wetland sediment
+SRR9691049	freshwater wetland sediment
+SRR9691050	freshwater wetland sediment
+SRR9691051	freshwater wetland sediment
+SRR9691052	freshwater wetland sediment
+SRR9691053	freshwater wetland sediment
+SRR9691054	freshwater wetland sediment
+SRR9691055	freshwater wetland sediment
+SRR9691056	freshwater wetland sediment
+SRR9691057	freshwater wetland sediment
+SRR9691058	freshwater wetland sediment
+SRR9691059	freshwater wetland sediment
+SRR9691060	freshwater wetland sediment
+SRR9656206	freshwater wetland sediment
+SRR9656207	freshwater wetland sediment
+SRR8718985	freshwater wetland sediment
+SRR8718986	freshwater wetland sediment
+SRR8718987	freshwater wetland sediment
+SRR8718988	freshwater wetland sediment
+SRR8718989	freshwater wetland sediment
+SRR8718990	freshwater wetland sediment
+SRR8718991	freshwater wetland sediment
+SRR8718992	freshwater wetland sediment
+SRR8191144	freshwater wetland sediment
+SRR8191145	freshwater wetland sediment
+SRR6436091	freshwater wetland sediment
+SRR6436070	freshwater wetland sediment
+SRR1029957	freshwater wetland sediment
+SRR5817585	freshwater wetland sediment
+SRR5817586	freshwater wetland sediment
+SRR5817587	freshwater wetland sediment
+SRR5817588	freshwater wetland sediment
+SRR5817589	freshwater wetland sediment
+SRR5817590	freshwater wetland sediment
+SRR5581526	freshwater wetland sediment
+SRR5124966	freshwater wetland sediment
+SRR5124967	freshwater wetland sediment
+SRR5124968	freshwater wetland sediment
+SRR5124969	freshwater wetland sediment
+SRR5124970	freshwater wetland sediment
+SRR5124971	freshwater wetland sediment
+SRR8476229	WTTP sludge
+SRR8476230	WTTP sludge
+SRR8476231	WTTP sludge
+SRR8476232	WTTP sludge
+SRR8476233	WTTP sludge
+SRR8476234	WTTP sludge
+SRR8476279	WTTP sludge
+SRR8476335	WTTP sludge
+SRR8476363	WTTP sludge
+SRR8476364	WTTP sludge
+SRR8476370	WTTP sludge
+SRR8476391	WTTP sludge
+SRR8476420	WTTP sludge
+SRR8476428	WTTP sludge
+SRR8476429	WTTP sludge
+SRR8476545	WTTP sludge
+SRR8554100	WTTP sludge
+SRR8554103	WTTP sludge
+SRR21822500	WTTP sludge
+SRR21773978	WTTP sludge
+SRR21773979	WTTP sludge
+SRR21773980	WTTP sludge
+SRR21773981	WTTP sludge
+SRR21773982	WTTP sludge
+SRR21773983	WTTP sludge
+SRR21773984	WTTP sludge
+SRR21773985	WTTP sludge
+SRR21773986	WTTP sludge
+SRR21773987	WTTP sludge
+SRR21773944	WTTP sludge
+SRR21773945	WTTP sludge
+ERR7850079	WTTP sludge
+ERR7850080	WTTP sludge
+ERR7850081	WTTP sludge
+ERR7850082	WTTP sludge
+ERR7850083	WTTP sludge
+ERR7850084	WTTP sludge
+ERR7850085	WTTP sludge
+ERR7850086	WTTP sludge
+ERR7850087	WTTP sludge
+ERR7850088	WTTP sludge
+ERR7850089	WTTP sludge
+ERR7850090	WTTP sludge
+ERR7850091	WTTP sludge
+ERR7850092	WTTP sludge
+ERR7850093	WTTP sludge
+ERR7850094	WTTP sludge
+ERR7850095	WTTP sludge
+ERR7850096	WTTP sludge
+ERR7850097	WTTP sludge
+ERR7850098	WTTP sludge
+ERR7850099	WTTP sludge
+ERR7850100	WTTP sludge
+ERR7757499	WTTP sludge
+ERR7757500	WTTP sludge
+ERR7757501	WTTP sludge
+ERR7757502	WTTP sludge
+ERR7757503	WTTP sludge
+ERR7757504	WTTP sludge
+ERR7757505	WTTP sludge
+ERR7757506	WTTP sludge
+ERR7757507	WTTP sludge
+ERR7757508	WTTP sludge
+ERR7757509	WTTP sludge
+ERR7757510	WTTP sludge
+ERR7757511	WTTP sludge
+ERR7757512	WTTP sludge
+ERR7757513	WTTP sludge
+ERR7757514	WTTP sludge
+ERR7757515	WTTP sludge
+ERR7757516	WTTP sludge
+ERR7757517	WTTP sludge
+ERR7757493	WTTP sludge
+SRR21620012	WTTP sludge
+SRR20083768	WTTP sludge
+SRR19913438	WTTP sludge
+SRR19913336	WTTP sludge
+SRR19743522	WTTP sludge
+SRR19591707	WTTP sludge
+SRR19591708	WTTP sludge
+SRR19591709	WTTP sludge
+SRR19591710	WTTP sludge
+SRR19591711	WTTP sludge
+SRR19591712	WTTP sludge
+SRR19591713	WTTP sludge
+SRR19591714	WTTP sludge
+SRR19591715	WTTP sludge
+SRR19591716	WTTP sludge
+SRR19591717	WTTP sludge
+SRR19591718	WTTP sludge
+SRR19591719	WTTP sludge
+SRR19542531	WTTP sludge
+SRR19542532	WTTP sludge
+SRR19542533	WTTP sludge
+SRR19542534	WTTP sludge
+SRR19330069	WTTP sludge
+SRR19226372	wastewater
+SRR19226370	WTTP sludge
+SRR19226371	WTTP sludge
+SRR19226369	WTTP sludge
+SRR19226368	river water
+SRR19226370	WTTP sludge
+SRR19226371	WTTP sludge
+DRR350540	WTTP sludge
+DRR350541	WTTP sludge
+DRR350542	WTTP sludge
+SRR18711341	WTTP sludge
+SRR18711179	WTTP sludge
+SRR18682536	wastewater
+SRR18682544	wastewater
+SRR18682537	WTTP sludge
+SRR18682538	WTTP sludge
+SRR18682539	WTTP sludge
+SRR18682540	WTTP sludge
+SRR18682541	WTTP sludge
+SRR18682542	WTTP sludge
+SRR18682543	WTTP sludge
+SRR18643806	WTTP sludge
+ERR8521291	WTTP sludge
+ERR8521292	WTTP sludge
+ERR8521293	WTTP sludge
+ERR8521294	WTTP sludge
+ERR8521295	WTTP sludge
+ERR8521296	WTTP sludge
+ERR8521297	WTTP sludge
+ERR8521298	WTTP sludge
+ERR8521299	WTTP sludge
+ERR8521300	WTTP sludge
+SRR18360462	WTTP sludge
+SRR18360463	WTTP sludge
+SRR18360464	WTTP sludge
+SRR18360465	WTTP sludge
+SRR18360466	WTTP sludge
+SRR18360467	WTTP sludge
+SRR18360468	WTTP sludge
+SRR18360469	WTTP sludge
+SRR18360470	WTTP sludge
+SRR18313612	WTTP sludge
+SRR18313613	WTTP sludge
+SRR18313625	WTTP sludge
+SRR18313635	WTTP sludge
+SRR18313646	WTTP sludge
+SRR18313647	WTTP sludge
+SRR18243713	WTTP sludge
+SRR18053991	WTTP sludge
+SRR17968334	WTTP sludge
+SRR17786455	WTTP sludge
+SRR17651513	WTTP sludge
+SRR17651514	WTTP sludge
+SRR17648131	WTTP sludge
+SRR17648132	WTTP sludge
+SRR17648133	WTTP sludge
+SRR17578869	WTTP sludge
+SRR17549188	wastewater
+SRR17549185	wastewater
+SRR17549187	WTTP sludge
+SRR17549186	wastewater
+SRR17549184	WTTP sludge
+SRR14800555	WTTP sludge
+SRR14800552	WTTP sludge
+SRR14800549	WTTP sludge
+SRR17454621	WTTP sludge
+SRR17348321	WTTP sludge
+SRR17348322	WTTP sludge
+SRR17348323	WTTP sludge
+SRR17284922	WTTP sludge
+SRR17284923	WTTP sludge
+SRR17284924	WTTP sludge
+ERR7569997	WTTP sludge
+ERR7569998	WTTP sludge
+ERR7569999	WTTP sludge
+ERR7570000	WTTP sludge
+ERR7570001	WTTP sludge
+ERR7570002	WTTP sludge
+ERR7570003	WTTP sludge
+ERR7570004	WTTP sludge
+ERR7570005	WTTP sludge
+ERR7570006	WTTP sludge
+SRR17089432	WTTP sludge
+SRR17089433	WTTP sludge
+SRR17089434	WTTP sludge
+SRR17089435	WTTP sludge
+SRR17089436	WTTP sludge
+SRR17089437	WTTP sludge
+SRR17089438	WTTP sludge
+SRR17089439	WTTP sludge
+SRR17089440	WTTP sludge
+SRR17089441	WTTP sludge
+SRR17089442	WTTP sludge
+SRR17089443	WTTP sludge
+SRR17089444	WTTP sludge
+SRR17089445	WTTP sludge
+SRR17089446	WTTP sludge
+SRR17089447	WTTP sludge
+SRR17089448	WTTP sludge
+SRR17089449	WTTP sludge
+SRR17089450	WTTP sludge
+SRR17089451	WTTP sludge
+SRR17089452	WTTP sludge
+SRR17089453	WTTP sludge
+SRR17089454	WTTP sludge
+SRR17089455	WTTP sludge
+SRR17089456	WTTP sludge
+SRR17089457	WTTP sludge
+SRR17068071	WTTP sludge
+SRR17068072	WTTP sludge
+SRR16998421	WTTP sludge
+SRR16998422	WTTP sludge
+SRR16998423	WTTP sludge
+SRR16951076	WTTP sludge
+SRR16951077	WTTP sludge
+SRR16951078	WTTP sludge
+SRR16526850	WTTP sludge
+SRR16526851	WTTP sludge
+SRR16526852	WTTP sludge
+SRR16526853	WTTP sludge
+SRR16526563	WTTP sludge
+SRR16526564	WTTP sludge
+SRR16526566	WTTP sludge
+SRR16526567	WTTP sludge
+SRR16526568	WTTP sludge
+SRR16526543	WTTP sludge
+SRR16526544	WTTP sludge
+SRR16526545	WTTP sludge
+SRR16526546	WTTP sludge
+SRR16483202	WTTP sludge
+SRR16483738	WTTP sludge
+SRR16483739	WTTP sludge
+SRR16483740	WTTP sludge
+SRR16483764	WTTP sludge
+SRR16484614	WTTP sludge
+SRR16483766	WTTP sludge
+SRR16484645	WTTP sludge
+SRR16484646	WTTP sludge
+SRR16484647	WTTP sludge
+SRR16484650	WTTP sludge
+SRR16484659	WTTP sludge
+SRR16472567	WTTP sludge
+SRR16379730	WTTP sludge
+SRR16379731	WTTP sludge
+SRR16378533	WTTP sludge
+SRR16377039	WTTP sludge
+SRR16241908	WTTP sludge
+SRR16214557	WTTP sludge
+SRR16214559	WTTP sludge
+SRR16214561	WTTP sludge
+SRR16203517	WTTP sludge
+SRR16002671	WTTP sludge
+SRR16002672	WTTP sludge
+SRR16002673	WTTP sludge
+SRR16002674	WTTP sludge
+SRR15882950	WTTP sludge
+SRR15882951	WTTP sludge
+SRR15603313	WTTP sludge
+SRR15603315	WTTP sludge
+(PRJEB39861) WTTP sludge
+SRR15021820	WTTP sludge
+SRR15021821	WTTP sludge
+SRR15021822	WTTP sludge
+SRR15021823	WTTP sludge
+SRR15021824	WTTP sludge
+(PRJNA509305) WTTP sludge
+SRR14782838	WTTP sludge
+ERR4450732	WTTP sludge
+ERR4450733	WTTP sludge
+ERR4450734	WTTP sludge
+ERR4450735	WTTP sludge
+ERR4450736	WTTP sludge
+ERR4450737	WTTP sludge
+ERR4450738	WTTP sludge
+ERR4450739	WTTP sludge
+ERR4450740	WTTP sludge
+ERR4450741	WTTP sludge
+ERR4450742	WTTP sludge
+ERR4450743	WTTP sludge
+ERR4450744	WTTP sludge
+ERR4450745	WTTP sludge
+ERR4450746	WTTP sludge
+ERR4450747	WTTP sludge
+ERR4450748	WTTP sludge
+ERR4450749	WTTP sludge
+ERR4450750	WTTP sludge
+ERR4450751	WTTP sludge
+ERR4450752	WTTP sludge
+ERR4450753	WTTP sludge
+ERR4450754	WTTP sludge
+ERR4450755	WTTP sludge
+ERR4450756	WTTP sludge
+ERR4450757	WTTP sludge
+ERR4450758	WTTP sludge
+ERR4450759	WTTP sludge
+ERR4450760	WTTP sludge
+ERR4450761	WTTP sludge
+ERR4450762	WTTP sludge
+ERR4450763	WTTP sludge
+ERR4450764	WTTP sludge
+ERR4450765	WTTP sludge
+SRR14610228	WTTP sludge
+SRR14610229	WTTP sludge
+SRR14610230	WTTP sludge
+SRR14610231	WTTP sludge
+SRR14610232	WTTP sludge
+SRR14610233	WTTP sludge
+SRR14610234	WTTP sludge
+SRR14610235	WTTP sludge
+SRR14610236	WTTP sludge
+SRR14610237	WTTP sludge
+SRR14610238	WTTP sludge
+SRR14610239	WTTP sludge
+SRR14610240	WTTP sludge
+SRR14610241	WTTP sludge
+SRR14610242	WTTP sludge
+SRR14610243	WTTP sludge
+SRR14610244	WTTP sludge
+SRR14610245	WTTP sludge
+SRR14610246	WTTP sludge
+SRR14610247	WTTP sludge
+SRR14610248	WTTP sludge
+SRR14610249	WTTP sludge
+SRR14610250	WTTP sludge
+SRR14610251	WTTP sludge
+SRR14520559	WTTP sludge
+SRR14520560	WTTP sludge
+SRR14493003	wastewater
+SRR14493004	wastewater
+SRR14493005	wastewater
+SRR14493006	wastewater
+SRR14493007	wastewater
+SRR14493008	wastewater
+SRR14493009	wastewater
+SRR14493010	wastewater
+SRR14493014	wastewater
+SRR14493015	wastewater
+SRR14302170	WTTP sludge
+SRR14302171	WTTP sludge
+SRR14302172	WTTP sludge
+SRR14302173	WTTP sludge
+SRR14302174	WTTP sludge
+SRR14302175	WTTP sludge
+SRR14149863	WTTP sludge
+SRR13994829	WTTP sludge
+SRR13994830	WTTP sludge
+SRR13994831	WTTP sludge
+SRR13994832	WTTP sludge
+SRR13994250	WTTP sludge
+SRR13988012	WTTP sludge
+SRR13983640	WTTP sludge
+SRR13983641	WTTP sludge
+ERR4982100	WTTP sludge
+ERR4976692	WTTP sludge
+SRR13729897	WTTP sludge
+SRR13729898	WTTP sludge
+SRR13503358	WTTP sludge
+SRR13503359	WTTP sludge
+SRR21201104	river water
+SRR21201105	river water
+SRR21201106	river water
+SRR21201107	river water
+SRR21201108	river water
+SRR21201109	river water
+SRR21201110	river water
+SRR21201111	river water
+SRR21201112	river water
+SRR21201113	river water
+SRR21201114	river water
+SRR21201115	river water
+SRR21201116	river water
+SRR21201117	river water
+SRR21201118	river water
+SRR21201119	river water
+SRR21201120	river water
+SRR21201121	river water
+SRR21201122	river water
+SRR21201123	river water
+SRR21201124	river water
+SRR21201125	river water
+SRR21201126	river water
+SRR21201127	river water
+SRR21201128	river water
+SRR21201129	river water
+SRR21201130	river water
+SRR21201131	river water
+SRR21201132	river water
+SRR21201133	river water
+SRR21201134	river water
+SRR21201135	river water
+SRR20074254	river water
+SRR20074255	river water
+SRR20074256	river water
+SRR20074257	river water
+SRR20074265	river water
+SRR20074276	river water
+SRR20074287	river water
+SRR20074297	river water
+SRR20074298	river water
+SRR20074299	river water
+SRR20074300	river water
+SRR20074301	river water
+SRR20074302	river water
+SRR20074303	river water
+SRR20074304	river water
+SRR20074305	river water
+SRR20074306	river water
+SRR20074307	river water
+SRR20074308	river water
+SRR20074309	river water
+SRR20074310	river water
+SRR18497784	river water
+SRR18106142	river water
+SRR17961184	river water
+ERR7929537	river water
+ERR7929666	river water
+ERR7929570	river water
+ERR7929567	river water
+ERR7929557	river water
+ERR7929542	river water
+SRR17562752	river water
+SRR17562722	river water
+SRR17562724	river water
+SRR17562727	river water
+SRR17562729	river water
+SRR17562731	river water
+SRR17562733	river water
+SRR17562735	river water
+SRR17562736	river water
+SRR17562738	river water
+SRR17562740	river water
+SRR17562742	river water
+SRR17562744	river water
+SRR17562746	river water
+SRR17562748	river water
+SRR17562750	river water
+SRR17542730	river water
+ERR3943985	river water
+ERR3943986	river water
+ERR3943987	river water
+ERR3943988	river water
+ERR3929374	river water
+ERR3929375	river water
+ERR3929376	river water
+ERR3929377	river water
+SRR16282452	aquaculture
+SRR16282453	aquaculture
+SRR16282455	aquaculture
+SRR16282459	aquaculture
+SRR16282460	aquaculture
+SRR16282462	aquaculture
+SRR16282466	aquaculture
+SRR16282467	aquaculture
+SRR16282468	aquaculture
+SRR16282469	aquaculture
+SRR15458562	river water
+SRR15458563	river water
+SRR15458564	river water
+SRR15458565	river water
+SRR15458566	river water
+SRR15458567	river water
+SRR15458568	river water
+SRR15458569	river water
+SRR15458570	river water
+SRR15458571	river water
+SRR15458572	river water
+SRR15458573	river water
+SRR15458574	river water
+SRR15458575	river water
+SRR15458576	river water
+SRR15458577	river water
+SRR15213101	river water
+SRR14906796	river water
+SRR14906797	river water
+SRR14906798	river water
+SRR14906799	river water
+SRR14906800	river water
+SRR14906801	river water
+SRR14906802	river water
+SRR14906803	river water
+SRR14906804	river water
+SRR14906805	river water
+SRR14906806	river water
+SRR14906807	river water
+SRR14576896	lake water
+SRR14576897	lake water
+SRR14576898	lake water
+SRR14576899	lake water
+SRR14576900	lake water
+SRR14576901	lake water
+SRR14576902	lake water
+SRR14576903	lake water
+SRR14576904	lake water
+SRR14576905	lake water
+SRR14576906	lake water
+SRR14576907	lake water
+SRR14576908	lake water
+SRR14576909	lake water
+SRR14576910	lake water
+SRR14576911	lake water
+SRR14576912	lake water
+SRR14576913	lake water
+SRR14576914	lake water
+SRR14576915	lake water
+SRR14576916	lake water
+SRR14576917	lake water
+SRR14576918	lake water
+SRR14576919	lake water
+SRR14576920	lake water
+SRR14576921	lake water
+SRR14576922	lake water
+SRR14576923	lake water
+SRR14576924	lake water
+SRR14576925	lake water
+SRR14576926	lake water
+SRR14576927	lake water
+SRR14576928	lake water
+SRR14576929	lake water
+SRR14576930	lake water
+SRR14576931	lake water
+ERR5439978	river water
+SRR14368435	river water
+SRR14368436	river water
+SRR14368437	river water
+SRR14368438	river water
+SRR14368439	river water
+SRR14368440	river water
+SRR14368441	river water
+SRR14368442	river water
+SRR14368443	river water
+SRR14368444	river water
+SRR14368445	river water
+SRR14368446	river water
+SRR14368447	river water
+SRR14061752	river water
+SRR14061753	river water
+SRR14061754	river water
+SRR13827115	lake water
+SRR13827116	lake water
+SRR13827117	lake water
+SRR13827118	lake water
+SRR13827119	lake water
+SRR13827120	lake water
+SRR13827121	lake water
+SRR13827122	lake water
+SRR13827123	lake water
+SRR13827124	lake water
+SRR13827125	lake water
+SRR13827126	lake water
+SRR13827127	lake water
+SRR13827128	lake water
+SRR13827129	lake water
+SRR13827130	lake water
+SRR13639656	river water
+SRR13639657	river water
+SRR13639658	river water
+SRR13349944	river water
+SRR13349945	river water
+SRR13239248	river water
+SRR13239249	river water
+SRR13239250	river water
+SRR13239251	river water
+SRR13239252	river water
+SRR13239253	river water
+SRR13058089	river water
+SRR13058090	river water
+SRR13058093	river water
+SRR13058094	river water
+SRR13058095	river water
+SRR13058096	river water
+SRR13058097	river water
+SRR13058109	river water
+SRR13058110	river water
+SRR13058111	river water
+SRR12825405	river water
+SRR12825406	river water
+SRR12825407	river water
+SRR12825408	river water
+SRR12825409	river water
+SRR12825410	river water
+SRR12825412	river water
+SRR12825413	river water
+SRR12825414	river water
+SRR12274735	river water
+SRR12274736	river water
+SRR12274737	river water
+SRR12274738	river water
+SRR12274739	river water
+SRR12274740	river water
+SRR12274741	river water
+SRR12274742	river water
+SRR12274743	river water
+SRR12274744	river water
+SRR12274745	river water
+SRR12274746	river water
+SRR12274747	river water
+SRR12274748	river water
+SRR12274749	river water
+SRR12274750	river water
+SRR12274751	river water
+SRR12274752	river water
+SRR12274753	river water
+SRR12197218	river water
+SRR12197220	river water
+SRR12197221	river water
+SRR12197222	river water
+SRR12197223	river water
+SRR12197224	river water
+SRR12197225	river water
+SRR12197226	river water
+SRR12197227	river water
+SRR12197228	river water
+SRR12197229	river water
+SRR12197230	river water
+SRR12197231	river water
+SRR12197232	river water
+SRR12197233	river water
+SRR12197234	river water
+SRR12197235	river water
+SRR12197236	river water
+SRR12197237	river water
+SRR12197238	river water
+SRR12197239	river water
+SRR12197240	river water
+SRR12197241	river water
+SRR12197242	river water
+SRR12197243	river water
+SRR12197244	river water
+SRR12197245	river water
+SRR12197246	river water
+SRR12197247	river water
+SRR12197248	river water
+SRR12197249	river water
+SRR12197250	river water
+SRR12197251	river water
+SRR12197252	river water
+SRR12197253	river water
+SRR12197254	river water
+SRR12197255	river water
+SRR12197256	river water
+SRR12197257	river water
+SRR12197258	river water
+SRR12197259	river water
+SRR12197260	river water
+SRR12197261	river water
+SRR12197262	river water
+SRR12197263	river water
+SRR12197264	river water
+SRR12197265	river water
+SRR12197266	river water
+SRR12197267	river water
+SRR12197268	river water
+SRR12197269	river water
+SRR12197270	river water
+SRR12197271	river water
+SRR12197272	river water
+SRR12197273	river water
+SRR12197274	river water
+SRR12197275	river water
+SRR12197276	river water
+SRR12197277	river water
+SRR12197278	river water
+SRR11803495	river water
+SRR11803496	river water
+SRR11803497	river water
+SRR11803498	river water
+SRR11803499	river water
+SRR11803500	river water
+SRR11803501	river water
+SRR11803502	river water
+SRR11803503	river water
+SRR11803504	river water
+SRR11803505	river water
+SRR11803377	river water
+SRR11803378	river water
+SRR11803379	river water
+SRR11803380	river water
+SRR11536955	river water
+SRR11536956	river water
+SRR11149787	river water
+SRR11088374	wastewater
+SRR11088375	wastewater
+SRR11088398	wastewater
+SRR11088399	wastewater
+SRR11088411	wastewater
+SRR11088417	wastewater
+SRR11088418	wastewater
+SRR11088422	wastewater
+SRR11088436	wastewater
+SRR11088437	wastewater
+SRR11088454	wastewater
+SRR11088456	wastewater
+SRR11088476	wastewater
+SRR11088477	wastewater
+SRR10571205	river water
+SRR10571206	river water
+SRR10571207	river water
+SRR10571208	river water
+SRR10571209	river water
+SRR10571210	river water
+SRR10571211	river water
+SRR10571212	river water
+SRR10571213	river water
+SRR10571214	river water
+SRR10571254	river water
+SRR10571255	river water
+SRR10571256	river water
+SRR10571257	river water
+SRR10131203	river water
+SRR9275566	river water
+SRR9275567	river water
+SRR9275568	river water
+SRR9275569	river water
+SRR10036018	river water
+SRR10036019	river water
+SRR10036020	river water
+SRR10036021	river water
+SRR10036022	river water
+SRR10036023	river water
+SRR10036024	river water
+SRR10036025	river water
+SRR10036026	river water
+SRR10036027	river water
+SRR10036028	river water
+SRR10036029	river water
+SRR10036030	river water
+SRR10036031	river water
+SRR10036032	river water
+SRR10036033	river water
+SRR10036034	river water
+SRR10036035	river water
+SRR10036036	river water
+SRR10036037	river water
+SRR10036038	river water
+SRR10036039	river water
+SRR10036040	river water
+SRR10036041	river water
+SRR10036042	river water
+SRR10036043	river water
+SRR10036044	river water
+SRR10036045	river water
+SRR10036046	river water
+SRR10036047	river water
+SRR10036048	river water
+SRR10036049	river water
+SRR10036050	river water
+SRR10036051	river water
+SRR10036052	river water
+SRR10036053	river water
+SRR10036054	river water
+SRR10036055	river water
+SRR10036056	river water
+SRR10036057	river water
+SRR10036058	river water
+SRR10036059	river water
+SRR10036060	river water
+SRR10036061	river water
+SRR10036062	river water
+SRR10036063	river water
+SRR10036064	river water
+SRR10036065	river water
+SRR10036066	river water
+SRR10036067	river water
+SRR10036068	river water
+SRR10036069	river water
+SRR10036070	river water
+SRR10036071	river water
+SRR10036072	river water
+SRR10036073	river water
+SRR10036074	river water
+SRR10036075	river water
+SRR10036076	river water
+SRR10036077	river water
+SRR10036078	river water
+SRR10036079	river water
+SRR10036080	river water
+SRR10036081	river water
+SRR10036082	river water
+SRR10036083	river water
+SRR10036084	river water
+SRR10036085	river water
+SRR10036086	river water
+SRR10036087	river water
+SRR10036088	river water
+SRR10036089	river water
+SRR10036090	river water
+SRR10036091	river water
+SRR9061263	river water
+SRR9061264	river water
+SRR9061265	river water
+SRR9061266	river water
+SRR9061267	river water
+SRR9061268	river water
+SRR9061269	river water
+SRR9061270	river water
+SRR9061271	river water
+SRR9061272	river water
+SRR9061273	river water
+SRR9061274	river water
+SRR9061275	river water
+SRR9061276	river water
+SRR9061277	river water
+SRR9061278	river water
+SRR9061279	river water
+SRR9061280	river water
+SRR9061281	river water
+SRR9061282	river water
+SRR9061283	river water
+SRR9061284	river water
+SRR9061285	river water
+SRR9061286	river water
+SRR9061287	river water
+SRR9061288	river water
+SRR9061289	river water
+SRR9061290	river water
+SRR9061291	river water
+SRR9061292	river water
+SRR9061293	river water
+SRR9061294	river water
+SRR9061295	river water
+SRR9061296	river water
+SRR9061297	river water
+SRR9061298	river water
+SRR9061299	river water
+SRR9061300	river water
+SRR9061301	river water
+SRR9061302	river water
+SRR9061303	river water
+SRR9061304	river water
+SRR9061305	river water
+SRR9061306	river water
+SRR9061307	river water
+SRR9061308	river water
+SRR9061309	river water
+SRR9061310	river water
+SRR9061311	river water
+SRR9061312	river water
+SRR9061313	river water
+SRR9061314	river water
+SRR9061315	river water
+SRR9061316	river water
+SRR9061317	river water
+SRR9061318	river water
+SRR9061319	river water
+SRR9061320	river water
+SRR9061321	river water
+SRR9061322	river water
+SRR9061323	river water
+SRR9061324	river water
+SRR9061325	river water
+SRR9061326	river water
+SRR9061327	river water
+SRR9061328	river water
+SRR9061329	river water
+SRR9061330	river water
+SRR9061331	river water
+SRR9061332	river water
+SRR9061333	river water
+SRR9061334	river water
+SRR9061335	river water
+SRR9061336	river water
+SRR9061337	river water
+SRR9061338	river water
+SRR9061339	river water
+SRR9061340	river water
+SRR9061341	river water
+SRR9061342	river water
+SRR9061343	river water
+SRR9061344	river water
+SRR9061345	river water
+SRR9061346	river water
+SRR9061347	river water
+SRR9061348	river water
+SRR9061349	river water
+SRR9061350	river water
+SRR9061351	river water
+SRR9061352	river water
+SRR9061353	river water
+SRR9061354	river water
+SRR9061355	river water
+SRR9061356	river water
+SRR9061357	river water
+SRR9061358	river water
+SRR9061359	river water
+SRR9061360	river water
+SRR9061361	river water
+SRR9061362	river water
+SRR9061363	river water
+SRR9061364	river water
+SRR9061365	river water
+SRR9061366	river water
+SRR9061367	river water
+SRR9061368	river water
+SRR9061369	river water
+SRR9061370	river water
+SRR9061371	river water
+SRR9061372	river water
+SRR9061373	river water
+SRR9061374	river water
+SRR9061375	river water
+SRR9061376	river water
+SRR8942237	river water
+SRR8942238	river water
+SRR8942239	river water
+SRR8942240	river water
+SRR8942241	river water
+SRR8942242	river water
+SRR8942243	river water
+SRR8942244	river water
+SRR8942245	river water
+SRR8942246	river water
+SRR8942247	river water
+SRR8942248	river water
+SRR8942249	river water
+SRR8942250	river water
+SRR8942251	river water
+SRR8942252	river water
+SRR8942253	river water
+SRR8942254	river water
+SRR8942255	river water
+SRR8942256	river water
+SRR8942257	river water
+SRR8942258	river water
+SRR8942259	river water
+SRR8942260	river water
+SRR8942261	river water
+SRR8942262	river water
+SRR8942263	river water
+SRR8942264	river water
+SRR8942265	river water
+SRR8942266	river water
+SRR8942298	river water
+SRR8942301	river water
+SRR8942302	river water
+SRR8942303	river water
+SRR8942304	river water
+SRR8942307	river water
+SRR8942308	river water
+SRR8942309	river water
+SRR8942310	river water
+SRR8942311	river water
+SRR8942312	river water
+SRR8942313	river water
+SRR8942314	river water
+SRR8942315	river water
+SRR8942316	river water
+SRR8870486	river water
+SRR8870488	river water
+SRR8584353	river water
+SRR8584354	river water
+SRR8584355	wastewater
+SRR8584356	river water
+SRR8584357	river water
+SRR8584358	wastewater
+SRR8437626	river water
+SRR8437629	river water
+SRR8437630	river water
+SRR8369886	river water
+SRR8369887	river water
+ERR2346693	river water
+ERR2345104	river water
+ERR2338392	river water
+SRR7754184	river water
+SRR7754185	river water
+SRR7754186	river water
+SRR7754187	river water
+SRR7754188	river water
+SRR7754189	river water
+SRR7754190	river water
+SRR7754191	river water
+SRR7754192	river water
+SRR7754193	river water
+SRR7754194	river water
+SRR7754195	river water
+SRR7754196	river water
+SRR7754197	river water
+SRR7754198	river water
+SRR7754199	river water
+SRR7754200	river water
+SRR7754201	river water
+SRR7754202	lake water
+SRR7754203	lake water
+SRR7686822	river water
+SRR7686823	river water
+SRR7686824	river water
+SRR7686964	river water
+SRR7686850	river water
+SRR7042822	river water
+SRR6466468	river water
+SRR6466469	river water
+SRR6466470	river water
+SRR6466471	river water
+SRR6410602	river water
+SRR4000976	river water
+SRR4000971	river water
+SRR1522971	lake water
+SRR1522964	lake water
+SRR1522973	lake water
+SRR1522974	lake water
+SRR1518285	river water
+SRR1515032	river water
+SRR1514963	river water
+SRR6231131	wastewater
+SRR6231148	wastewater
+SRR6231149	wastewater
+SRR6231134	wastewater
+SRR6231135	wastewater
+SRR6231136	wastewater
+SRR6231137	wastewater
+SRR6231138	wastewater
+SRR6231139	wastewater
+SRR6231140	wastewater
+SRR6231141	wastewater
+SRR6231152	river water
+SRR6231157	river water
+SRR6231158	river water
+SRR6231159	river water
+SRR6231174	river water
+SRR6231161	river water
+SRR6231164	river water
+SRR6231165	river water
+SRR6231166	river water
+SRR6231181	river water
+SRR6231186	river water
+SRR6231189	river water
+SRR6231197	river water
+SRR6231198	river water
+SRR6231202	river water
+SRR6231205	river water
+SRR6231206	river water
+SRR6231207	river water
+SRR6231212	river water
+SRR6231215	river water
+SRR6231216	river water
+SRR6231217	river water
+SRR6231218	river water
+SRR6231220	river water
+SRR6231221	river water
+SRR5574343	agriculture
+ERR1750013	lake water
+SRR5123271	river water
+SRR5123272	river water
+SRR5123273	river water
+SRR5123274	river water
+SRR5123275	river water
+SRR5123276	river water
+SRR5123277	river water
+ERR1474558	river water
+ERR1474559	river water
+ERR1474560	river water
+ERR1474561	river water
+ERR1474562	river water
+ERR1474563	river water
+SRR3476747	river water
+SRR3098756	river water
+SRR3098779	river water
+SRR3098776	river water
+SRR3098775	river water
+SRR3098772	river water
+SRR3098769	river water
+SRR3098767	river water
+SRR3098764	river water
+SRR3098759	river water
+SRR2556883	river water
+SRR2556884	river water
+ERR864071	river water
+SRR2016482	river water
+SRR1169859	river water
+SRR1169860	river water
+SRR1169861	river water
+SRR1169870	river water
+SRR1169871	river water
+SRR1169873	river water
+SRR1169878	river water
+SRR1169874	river water
+SRR1169882	river water
+SRR1169883	river water
+SRR1169884	river water
+SRR850459	river water
+SRR1022353	river water
+SRR850211	drinking water
+SRR850212	drinking water
+SRR847527	river water
+SRR835363	river water
+SRR850456	river water
+SRR21053862	lake water
+SRR21053863	lake water
+SRR21025699	lake water
+SRR21025700	lake water
+SRR21025701	lake water
+SRR21025702	lake water
+DRR333410	lake water
+DRR333409	lake water
+DRR333408	lake water
+DRR333407	lake water
+DRR333406	lake water
+DRR333405	lake water
+DRR333404	lake water
+DRR333403	lake water
+DRR333402	lake water
+DRR333401	lake water
+DRR333400	lake water
+DRR333399	lake water
+DRR333398	lake water
+DRR333397	lake water
+DRR333396	lake water
+DRR333395	lake water
+DRR333394	lake water
+DRR333393	lake water
+DRR333392	lake water
+DRR333391	lake water
+DRR333390	lake water
+DRR333389	lake water
+DRR333388	lake water
+DRR333387	lake water
+DRR333386	lake water
+DRR333385	lake water
+DRR333384	lake water
+DRR333383	lake water
+DRR333382	lake water
+DRR333381	lake water
+DRR333380	lake water
+DRR333379	lake water
+DRR333378	lake water
+DRR333377	lake water
+DRR333376	lake water
+DRR333375	lake water
+DRR333374	lake water
+DRR333373	lake water
+DRR333372	lake water
+DRR333371	lake water
+DRR333370	lake water
+DRR333369	lake water
+DRR333368	lake water
+DRR333367	lake water
+DRR333366	lake water
+DRR333365	lake water
+DRR333364	lake water
+DRR333363	lake water
+ERR5863122	lake water
+ERR5863123	lake water
+ERR5863124	lake water
+ERR5863125	lake water
+ERR5863126	lake water
+ERR5863127	lake water
+ERR5863128	lake water
+ERR5863129	lake water
+ERR5863122	lake water
+ERR5863123	lake water
+ERR5863124	lake water
+ERR5863125	lake water
+ERR5863126	lake water
+ERR5863127	lake water
+ERR5863128	lake water
+ERR5863129	lake water
+ERR5863120	lake water
+ERR5863121	lake water
+ERR5863108	lake water
+ERR5863109	lake water
+ERR5863110	lake water
+ERR5863111	lake water
+ERR5863112	lake water
+ERR5863113	lake water
+ERR5863114	lake water
+ERR5863115	lake water
+ERR5863116	lake water
+ERR5863117	lake water
+ERR5863118	lake water
+ERR5863100	lake water
+ERR5863101	lake water
+ERR5863102	lake water
+ERR5863103	lake water
+ERR5863104	lake water
+ERR5863105	lake water
+ERR5863106	lake water
+ERR3719162	lake water
+ERR3719163	lake water
+ERR3719164	lake water
+ERR3719165	lake water
+ERR3719156	lake water
+ERR3719157	lake water
+ERR3719158	lake water
+ERR3719159	lake water
+ERR3719160	lake water
+ERR3719153	lake water
+ERR3719154	lake water
+ERR3719145	lake water
+ERR3719146	lake water
+ERR3719147	lake water
+ERR3719148	lake water
+ERR3719149	lake water
+SRR19786820	lake water
+SRR19786821	lake water
+SRR19786822	lake water
+SRR19786823	lake water
+SRR19786824	lake water
+SRR19786825	lake water
+SRR19786826	lake water
+SRR19786827	lake water
+SRR19786828	lake water
+SRR19786829	lake water
+SRR19786830	lake water
+SRR19786831	lake water
+SRR19786832	lake water
+SRR19786833	lake water
+SRR19786834	lake water
+SRR19786835	lake water
+SRR19786836	lake water
+SRR19786837	lake water
+SRR19786838	lake water
+SRR19786839	lake water
+SRR19786840	lake water
+SRR19786841	lake water
+SRR19786842	lake water
+SRR19786843	lake water
+SRR19786844	lake water
+SRR19786845	lake water
+SRR19786846	lake water
+SRR19786847	lake water
+SRR19786848	lake water
+SRR19786849	lake water
+SRR19497811	lake water
+SRR18907907	lake water
+SRR18907908	lake water
+SRR18907909	lake water
+SRR18907910	lake water
+SRR18907911	lake water
+SRR18907912	lake water
+SRR18907913	lake water
+SRR18907914	lake water
+SRR18907915	lake water
+SRR18907916	lake water
+SRR18907917	lake water
+SRR18609917	river water
+SRR13013686	lake water
+SRR13013687	lake water
+SRR13013688	lake water
+SRR13013689	lake water
+ERR5527432	lake water
+ERR5527433	lake water
+ERR5527434	lake water
+ERR5527432	lake water
+ERR5529218	lake water
+ERR5424900	lake water
+SRR15669396	lake water
+SRR15263996	lake water
+SRR15164340	lake water
+SRR15164341	lake water
+SRR15164342	lake water
+SRR15164343	lake water
+SRR15164344	lake water
+SRR15164345	lake water
+SRR15164346	lake water
+SRR15164347	lake water
+SRR15164348	lake water
+SRR15164349	lake water
+SRR15164350	lake water
+SRR15164351	lake water
+SRR15164352	lake water
+SRR15114364	lake water
+SRR15114365	lake water
+SRR15114367	lake water
+SRR15114368	lake water
+SRR15064818	lake water
+SRR14578319	lake water
+SRR14578320	lake water
+SRR14578321	lake water
+SRR14578322	lake water
+SRR14578323	lake water
+SRR14578324	lake water
+SRR14578325	lake water
+SRR14578326	lake water
+SRR14578327	lake water
+SRR14578328	lake water
+SRR14578329	lake water
+SRR14578330	lake water
+SRR14578331	lake water
+SRR14578332	lake water
+SRR14578333	lake water
+SRR14578334	lake water
+SRR14578335	lake water
+SRR14578336	lake water
+SRR14578337	lake water
+SRR14578338	lake water
+SRR14578339	lake water
+SRR14578340	lake water
+SRR14578341	lake water
+SRR14578342	lake water
+SRR14578343	lake water
+SRR14578344	lake water
+SRR14578345	lake water
+SRR14578346	lake water
+SRR14578347	lake water
+ERR5863202	lake water
+ERR5863203	lake water
+ERR5863204	lake water
+ERR5863205	lake water
+ERR5863206	lake water
+ERR5863207	lake water
+ERR5863208	lake water
+SRR14240539	lake water
+SRR14240540	lake water
+SRR14240541	lake water
+SRR14240542	lake water
+SRR14240543	lake water
+ERR4653568	lake water
+ERR4653569	lake water
+ERR4653570	lake water
+ERR4653571	lake water
+ERR4653572	lake water
+ERR4653573	lake water
+ERR4653574	lake water
+ERR4653575	lake water
+ERR4653530	lake water
+ERR4653531	lake water
+ERR4653514	lake water
+ERR4653515	lake water
+ERR4653522	lake water
+SRR13558448	lake water
+SRR13558449	lake water
+SRR13558450	lake water
+SRR13558451	lake water
+SRR13558452	lake water
+SRR13558453	lake water
+SRR13516731	lake water
+SRR13516732	lake water
+SRR13516733	lake water
+SRR13516734	lake water
+SRR13516735	lake water
+SRR13516736	lake water
+SRR13516737	lake water
+SRR13516747	lake water
+SRR13516748	lake water
+SRR13516749	lake water
+SRR13516750	lake water
+SRR13516751	lake water
+SRR13516752	lake water
+SRR13516753	lake water
+SRR13516754	lake water
+SRR13399485	lake water
+SRR13399486	lake water
+SRR13399487	lake water
+SRR13399488	lake water
+ERR3856786	lake water
+ERR3856787	lake water
+ERR3856788	lake water
+ERR3856789	lake water
+SRR12676966	lake water
+SRR12676967	lake water
+SRR12676968	lake water
+SRR12676969	lake water
+SRR12676970	lake water
+SRR12676971	lake water
+SRR12676972	lake water
+SRR12676973	lake water
+SRR12676974	lake water
+SRR12676975	lake water
+SRR12658717	lake water
+SRR12658718	lake water
+SRR12658719	lake water
+SRR12658720	lake water
+SRR12658710	lake water
+SRR12658722	lake water
+SRR12658723	lake water
+SRR12485863	lake water
+SRR12485864	lake water
+SRR12485865	lake water
+SRR12462965	lake water
+SRR12462966	lake water
+SRR12462967	lake water
+SRR12462968	lake water
+SRR12462969	lake water
+SRR12462970	lake water
+SRR12462971	lake water
+SRR12462972	lake water
+SRR12450176	lake water
+SRR12449815	lake water
+SRR12449796	lake water
+SRR12442164	lake water
+SRR12442051	lake water
+SRR12439184	lake water
+SRR12313355	lake water
+SRR12313356	lake water
+ERR2681671	lake water
+ERR2681672	lake water
+ERR2681673	lake water
+ERR2681674	lake water
+ERR2681675	lake water
+ERR2681676	lake water
+ERR2681669	lake water
+ERR2681670	lake water
+SRR12053438	lake water
+SRR12053439	lake water
+SRR12053440	lake water
+SRR12053441	lake water
+SRR12053442	lake water
+SRR12053443	lake water
+SRR12042536	lake water
+ERR4225396	lake water
+ERR4225342	lake water
+ERR4223704	lake water
+ERR4223705	lake water
+ERR4223706	lake water
+ERR4223707	lake water
+ERR4222602	lake water
+ERR4222594	lake water
+ERR4222595	lake water
+ERR4222588	lake water
+ERR4222589	lake water
+ERR4222568	lake water
+ERR4222569	lake water
+ERR4222570	lake water
+ERR4222571	lake water
+ERR4222572	lake water
+ERR4222573	lake water
+ERR4222574	lake water
+(PRJEB38681)	lake water
+SRR11700399	lake water
+SRR11700400	lake water
+SRR11700401	lake water
+SRR11700402	lake water
+SRR11700403	lake water
+SRR11700404	lake water
+SRR11700405	lake water
+SRR11700406	lake water
+SRR11700407	lake water
+SRR11700408	lake water
+SRR11700409	lake water
+SRR11700410	lake water
+SRR11700411	lake water
+SRR11700412	lake water
+SRR11700413	lake water
+SRR11700414	lake water
+SRR11700415	lake water
+SRR11700416	lake water
+SRR11700417	lake water
+SRR11700418	lake water
+SRR11700419	lake water
+SRR11700420	lake water
+SRR11700421	lake water
+SRR11700422	lake water
+SRR11700423	lake water
+SRR11700424	lake water
+SRR11700425	lake water
+SRR11700426	lake water
+SRR11700427	lake water
+SRR11700428	lake water
+SRR11700429	lake water
+SRR11700430	lake water
+SRR11700431	lake water
+SRR11700432	lake water
+SRR11700433	lake water
+SRR11700434	lake water
+SRR11700435	lake water
+SRR11700436	lake water
+SRR11700437	lake water
+SRR11638434	lake water
+SRR11638334	lake water
+SRR11638223	lake water
+SRR11638128	lake water
+SRR11638000	lake water
+SRR11637992	lake water
+SRR11637951	lake water
+SRR11647637	lake water
+SRR11678154	lake water
+SRR11646531	lake water
+SRR11646432	lake water
+SRR11639925	lake water
+SRR11639491	lake water
+SRR11638840	lake water
+SRR11638770	lake water
+SRR11607847	lake water
+SRR11607848	lake water
+SRR11582169	lake water
+ERR3997373	lake water
+ERR3997374	lake water
+ERR3997375	lake water
+ERR3997376	lake water
+ERR3997377	lake water
+ERR3997378	lake water
+ERR4011031	lake water
+ERR4011032	lake water
+ERR4011033	lake water
+ERR4011034	lake water
+ERR4011035	lake water
+ERR4011036	lake water
+ERR4011037	lake water
+ERR4011038	lake water
+SRR11430612	lake water
+SRR11430613	lake water
+SRR11430614	lake water
+SRR11430615	lake water
+SRR11430616	lake water
+SRR11430617	lake water
+SRR11414071	lake water
+SRR11414072	lake water
+SRR11414073	lake water
+SRR11414074	lake water
+SRR11414075	lake water
+SRR11414076	lake water
+SRR11285470	lake water
+SRR11285500	lake water
+SRR11285472	lake water
+SRR11285473	lake water
+SRR11285474	lake water
+SRR11285515	lake water
+SRR11285593	lake water
+SRR11285815	lake water
+SRR11285840	lake water
+SRR11285841	lake water
+SRR11285887	lake water
+SRR11286063	lake water
+SRR11286066	lake water
+SRR11286067	lake water
+SRR11069761	lake water
+SRR11069762	lake water
+SRR11069770	lake water
+SRR11069764	lake water
+SRR11069765	lake water
+SRR10965064	lake water
+SRR10955999	lake water
+SRR10956001	lake water
+SRR10955928	lake water
+SRR10955929	lake water
+SRR10955857	lake water
+SRR10955922	lake water
+SRR10955153	lake water
+ERR3083899	lake water
+ERR3761202	lake water
+ERR3761203	lake water
+ERR3761204	lake water
+ERR3761205	lake water
+ERR3761206	lake water
+ERR3761207	lake water
+ERR3761208	lake water
+ERR3761209	lake water
+ERR3761210	lake water
+ERR3761211	lake water
+ERR3761212	lake water
+ERR3761213	lake water
+ERR3761214	lake water
+ERR3761215	lake water
+ERR3761216	lake water
+ERR3761217	lake water
+ERR3761218	lake water
+ERR3761219	lake water
+ERR3761220	lake water
+ERR3761221	lake water
+ERR3761222	lake water
+ERR3761223	lake water
+ERR3761224	lake water
+ERR3761225	lake water
+ERR3761226	lake water
+ERR3761227	lake water
+ERR3761228	lake water
+ERR3761229	lake water
+ERR3761230	lake water
+ERR3761231	lake water
+ERR3761232	lake water
+ERR3761233	lake water
+ERR3761234	lake water
+ERR3761235	lake water
+ERR3761236	lake water
+ERR3761237	lake water
+ERR3761238	lake water
+ERR3761239	lake water
+ERR3761240	lake water
+ERR3761241	lake water
+ERR3761194	lake water
+ERR3761195	lake water
+ERR3761196	lake water
+ERR3761197	lake water
+ERR3761198	lake water
+ERR3761199	lake water
+ERR3761200	lake water
+ERR3761201	lake water
+(PRJNA578039)	lake water
+SRR10599098	lake water
+SRR10599099	lake water
+SRR10599100	lake water
+SRR10599101	lake water
+SRR10599102	lake water
+SRR10599103	lake water
+SRR10599104	lake water
+SRR10599105	lake water
+SRR10599106	lake water
+SRR10599107	lake water
+SRR10599108	lake water
+SRR10599109	lake water
+SRR10599110	lake water
+SRR10599111	lake water
+SRR10599112	lake water
+SRR10599113	lake water
+SRR10241522	lake water
+SRR10241523	lake water
+SRR10241524	lake water
+SRR10241525	lake water
+SRR10241526	lake water
+SRR10241527	lake water
+SRR10241528	lake water
+SRR10241529	lake water
+DRR147671	lake water
+DRR147675	lake water
+DRR147678	lake water
+SRR10083265	lake water
+SRR10083266	lake water
+SRR10083267	lake water
+SRR10083268	lake water
+SRR10083269	lake water
+SRR10083270	lake water
+SRR10083271	lake water
+SRR10083272	lake water
+SRR10083273	lake water
+SRR10083274	lake water
+SRR10083275	lake water
+SRR10083276	lake water
+ERR2752922	lake water
+ERR2752923	lake water
+SRR9199117	lake water
+SRR9199118	lake water
+SRR9199119	lake water
+SRR9199120	lake water
+SRR8550535	lake water
+SRR8517158	lake water
+SRR8517159	lake water
+SRR8517160	lake water
+SRR8517161	lake water
+SRR8517162	lake water
+SRR8517163	lake water
+SRR8209851	lake water
+SRR8209852	lake water
+ERR2868523	lake water
+ERR2868524	lake water
+ERR2868525	lake water
+ERR2868526	lake water
+ERR2868527	lake water
+DRR125121	lake water
+DRR125122	lake water
+DRR125123	lake water
+DRR125124	lake water
+DRR125125	lake water
+DRR125126	lake water
+DRR125127	lake water
+(PRJNA497294)	lake water
+SRR7990525	lake water
+SRR7990526	lake water
+SRR7990527	lake water
+SRR7990717	lake water
+SRR7990546	lake water
+SRR7990334	lake water
+SRR7989281	lake water
+SRR7979708	lake water
+SRR7979709	lake water
+SRR7985395	lake water
+SRR7985589	lake water
+SRR7985596	lake water
+SRR7988745	lake water
+SRR7985617	lake water
+SRR7985618	lake water
+SRR7812697	lake water
+SRR7812574	lake water
+DRR121263	lake water
+DRR121264	lake water
+SRR7760392	lake water
+SRR7760394	lake water
+SRR7760395	lake water
+SRR7646212	lake water
+SRR7646213	lake water
+SRR7646214	lake water
+SRR7646215	lake water
+SRR7646216	lake water
+SRR7646217	lake water
+SRR7646218	lake water
+SRR7646219	lake water
+SRR7343998	lake water
+SRR7343999	lake water
+SRR7344000	lake water
+SRR7344001	lake water
+SRR7344002	lake water
+SRR7344003	lake water
+SRR7182472	lake water
+SRR7182473	lake water
+SRR7182474	lake water
+SRR7182475	lake water
+SRR7182476	lake water
+SRR7182477	lake water
+SRR7182478	lake water
+SRR7182479	lake water
+SRR7182480	lake water
+SRR7182481	lake water
+SRR7182484	lake water
+SRR7182485	lake water
+SRR7182486	lake water
+SRR7182492	lake water
+SRR7182493	lake water
+SRR7182494	lake water
+SRR7182495	lake water
+SRR7182496	lake water
+SRR7182497	lake water
+SRR7182498	lake water
+SRR7182499	lake water
+SRR7182500	lake water
+SRR7182501	lake water
+SRR7053298	lake water
+SRR7053051	lake water
+SRR7052951	lake water
+SRR7010047	lake water
+SRR7010048	lake water
+SRR7010049	lake water
+SRR7009399	lake water
+SRR6476077	lake water
+SRR6476078	lake water
+SRR6476262	lake water
+SRR6476264	lake water
+SRR6476446	lake water
+SRR6476468	lake water
+SRR6304947	lake water
+SRR6304948	lake water
+SRR6304949	lake water
+SRR6237649	lake water
+SRR6237650	lake water
+SRR6237651	lake water
+SRR6237652	lake water
+SRR6237653	lake water
+SRR6237654	lake water
+SRR6237655	lake water
+SRR6237656	lake water
+SRR6237657	lake water
+SRR6237658	lake water
+SRR5896114	lake water
+SRR5896115	lake water
+SRR5830789	lake water
+SRR5830790	lake water
+SRR5581494	lake water
+SRR5581475	lake water
+ERR1843313	lake water
+ERR1843314	lake water
+SRR5468151	lake water
+SRR5468152	lake water
+SRR5468154	lake water
+SRR5468155	lake water
+SRR5227751	lake water
+SRR5225748	lake water
+SRR5214709	lake water
+SRR5214704	lake water
+SRR5214703	lake water
+SRR5208770	lake water
+SRR5208786	lake water
+ERR472738	lake water
+ERR472739	lake water
+SRR3657429	lake water
+SRR3657430	lake water
+SRR3657431	lake water
+SRR3657432	lake water
+SRR3657433	lake water
+SRR3657434	lake water
+SRR3657435	lake water
+SRR3657436	lake water
+SRR3657437	lake water
+SRR3657438	lake water
+SRR3657439	lake water
+SRR3657440	lake water
+SRR3657441	lake water
+SRR1177011	lake water
+SRR1179181	lake water
+SRR17828877	drinking water
+SRR17828878	drinking water
+SRR17828879	drinking water
+SRR17828880	drinking water
+SRR17828881	drinking water
+SRR17828882	drinking water
+SRR17828883	drinking water
+SRR17828884	drinking water
+SRR17828885	drinking water
+SRR17828886	drinking water
+SRR17828887	drinking water
+SRR17828888	drinking water
+SRR17828889	drinking water
+SRR17828890	drinking water
+SRR17828891	drinking water
+SRR17828892	drinking water
+SRR17828893	drinking water
+SRR15085115	drinking water
+SRR15085116	drinking water
+SRR15085117	drinking water
+SRR15085118	drinking water
+SRR15085119	drinking water
+SRR15085120	drinking water
+SRR15085121	drinking water
+SRR15085122	drinking water
+SRR15085123	drinking water
+SRR15085124	drinking water
+SRR15085125	drinking water
+SRR15085126	drinking water
+SRR15085127	drinking water
+SRR15085128	drinking water
+SRR15085129	drinking water
+SRR14825526	drinking water
+SRR14825528	drinking water
+SRR7638721	drinking water
+SRR7638722	drinking water
+SRR7638723	drinking water
+SRR7638724	drinking water
+SRR7638725	drinking water
+SRR7638726	drinking water
+SRR7638727	drinking water
+SRR7638745	drinking water
+SRR7638751	drinking water
+SRR7638762	drinking water
+SRR7638763	drinking water
+SRR6797127	drinking water
+SRR6797128	drinking water
+SRR6797129	drinking water
+SRR6797130	drinking water
+SRR6797131	drinking water
+SRR6797132	drinking water
+SRR6797133	drinking water
+SRR6797134	drinking water
+SRR6797135	drinking water
+SRR6797136	drinking water
+SRR6797137	drinking water
+SRR6797138	drinking water
+SRR6797139	drinking water
+SRR6797140	drinking water
+SRR6797141	drinking water
+SRR6797142	drinking water
+SRR6797143	drinking water
+SRR6797144	drinking water
+SRR6797145	drinking water
+SRR6797146	drinking water
+SRR6797147	drinking water
+SRR6797148	drinking water
+SRR6797149	drinking water
+SRR6797150	drinking water
+SRR6797151	drinking water
+SRR5128047	drinking water
+SRR5128048	drinking water
+SRR5128049	drinking water
+SRR5128050	drinking water
+SRR5128051	drinking water
+SRR5128052	drinking water
+SRR19908728	drinking water
+SRR19908729	drinking water
+SRR19908730	drinking water
+SRR14143296	drinking water
+SRR14143297	drinking water
+SRR14143298	drinking water
+SRR14143299	drinking water
+SRR14143300	drinking water
+SRR14143301	drinking water
+SRR14143302	drinking water
+SRR14143303	drinking water
+SRR14143304	drinking water
+SRR14143305	drinking water
+SRR14143306	drinking water
+SRR14143307	drinking water
+SRR14143308	drinking water
+SRR14143309	drinking water
+SRR14143310	drinking water
+SRR14143311	drinking water
+SRR14143312	drinking water
+SRR14143313	drinking water
+SRR14143314	drinking water
+SRR14143315	drinking water
+SRR14143316	drinking water
+SRR14143317	drinking water
+SRR14143318	drinking water
+SRR14143319	drinking water
+SRR14143320	drinking water
+SRR14143321	drinking water
+SRR14143322	drinking water
+SRR14143323	drinking water
+SRR14143324	drinking water
+SRR14143325	drinking water
+SRR14143326	drinking water
+SRR14143327	drinking water
+SRR14143328	drinking water
+SRR14143329	drinking water
+SRR14143330	drinking water
+SRR14143331	drinking water
+SRR11487817	drinking water
+SRR11487818	drinking water
+SRR11487819	drinking water
+SRR11487820	drinking water
+SRR11632267	drinking water
+SRR11632268	drinking water
+SRR11632269	drinking water
+SRR11632270	drinking water
+SRR11632271	drinking water
+SRR11632272	drinking water
+SRR11632273	drinking water
+SRR11632274	drinking water
+SRR11632275	drinking water
+SRR11632276	drinking water
+SRR11632277	drinking water
+SRR11632278	drinking water
+SRR11487821	drinking water
+SRR11487826	drinking water
+SRR11487827	drinking water
+(PRJNA533545)	drinking water
+SRR10211370	drinking water
+SRR10211371	drinking water
+SRR10211375	drinking water
+ERR2105750	drinking water
+ERR2105753	drinking water
+ERR2105754	drinking water
+ERR2105755	drinking water
+ERR2163668	drinking water
+ERR2105748	drinking water
+SRR8512217	drinking water
+SRR8512218	drinking water
+SRR8512219	drinking water
+SRR8512220	drinking water
+SRR8512221	drinking water
+SRR8512222	drinking water
+SRR8512223	drinking water
+SRR8512224	drinking water
+SRR8512225	drinking water
+SRR8512226	drinking water
+SRR8512227	drinking water
+SRR8512228	drinking water
+SRR8512229	drinking water
+SRR8512230	drinking water
+SRR8512231	drinking water
+SRR8512232	drinking water
+SRR8512233	drinking water
+SRR8512234	drinking water
+SRR8512235	drinking water
+SRR8512236	drinking water
+SRR8512237	drinking water
+SRR8512238	drinking water
+SRR8512239	drinking water
+SRR8512240	drinking water
+SRR8512241	drinking water
+SRR8512242	drinking water
+SRR8512243	drinking water
+SRR8512244	drinking water
+SRR8512245	drinking water
+SRR8512246	drinking water
+SRR8512247	drinking water
+SRR8512248	drinking water
+SRR8512249	drinking water
+SRR8512250	drinking water
+SRR8512251	drinking water
+SRR8512252	drinking water
+SRR8512253	drinking water
+SRR8512254	drinking water
+SRR8512255	drinking water
+ERR2851113	drinking water
+ERR2851114	drinking water
+ERR2851138	drinking water
+ERR2851139	drinking water
+ERR2841088	drinking water
+ERR2841089	drinking water
+ERR2841090	drinking water
+ERR2841091	drinking water
+ERR2841092	drinking water
+ERR2835736	drinking water
+ERR2835737	drinking water
+SRR7638720	drinking water
+ERR2869073	drinking water
+SRR7638739	drinking water
+SRR7638742	drinking water
+SRR7638777	drinking water
+SRR7369907	drinking water
+SRR7369908	drinking water
+SRR7369909	drinking water
+SRR7369910	drinking water
+SRR7369911	drinking water
+SRR7369912	drinking water
+SRR7369913	drinking water
+SRR7369914	drinking water
+SRR7369915	drinking water
+SRR7369916	drinking water
+SRR7369917	drinking water
+SRR7369918	drinking water
+SRR7369919	drinking water
+SRR7369920	drinking water
+SRR7369921	drinking water
+SRR7369922	drinking water
+SRR7369923	drinking water
+SRR7369924	drinking water
+SRR6986807	drinking water
+SRR6986808	drinking water
+SRR6986809	drinking water
+SRR6986810	drinking water
+SRR6986811	drinking water
+SRR6986812	drinking water
+SRR6986813	drinking water
+SRR6986814	drinking water
+SRR6986815	drinking water
+SRR6986816	drinking water
+SRR6986817	drinking water
+SRR6986818	drinking water
+SRR6986819	drinking water
+SRR6986820	drinking water
+SRR6986821	drinking water
+SRR6986822	drinking water
+SRR6986823	drinking water
+SRR6986824	drinking water
+SRR6986825	drinking water
+SRR6986826	drinking water
+SRR5468574	wastewater
+SRR2905840	drinking water
+SRR2905841	drinking water
+SRR2905842	drinking water
+SRR2905843	drinking water
+SRR2905836	drinking water
+SRR2905829	drinking water
+SRR2905455	drinking water
+SRR2905791	drinking water
+SRR1577908	drinking water
+SRR1582210	drinking water
+SRR1582366	drinking water
+SRR1582709	drinking water
+SRR1584466	drinking water
+SRR2064091	drinking water
+SRR2568014	drinking water
+SRR2568015	drinking water
+SRR1047946	drinking water
+SRR1047947	drinking water
+SRR1047948	drinking water
+SRR1047949	drinking water
+SRR1047951	drinking water
+SRR1047952	drinking water
+SRR1047953	drinking water
+SRR1047954	drinking water
+SRR1047955	drinking water
+SRR747868	drinking water
+SRR446629	drinking water
+SRR446630	drinking water
+SRR446604	drinking water
+SRR11487813	drinking water
+SRR11487814	drinking water
+SRR11487815	drinking water
+SRR11487816	drinking water
+SRR11487822	drinking water
+SRR11487823	drinking water
+SRR11487824	drinking water
+SRR11487825	drinking water
+SRR20721990	drinking water
+SRR20721991	drinking water
+SRR20721992	drinking water
+SRR20721993	drinking water
+SRR20721994	drinking water
+SRR20721995	drinking water
+SRR20721996	drinking water
+SRR20721997	drinking water
+SRR20721998	drinking water
+SRR20721999	drinking water
+SRR20722000	drinking water
+SRR20722001	drinking water
+SRR20722002	drinking water
+SRR20722003	drinking water
+SRR20722004	drinking water
+SRR20722005	drinking water
+SRR20722006	drinking water
+SRR20722007	drinking water
+DRR404984	wastewater
+SRR21396285	wastewater
+SRR21396286	wastewater
+SRR21396287	wastewater
+SRR21396288	wastewater
+SRR21396289	wastewater
+SRR21396290	wastewater
+SRR21396291	wastewater
+SRR21396292	wastewater
+SRR21396293	wastewater
+SRR21396294	wastewater
+SRR21396295	wastewater
+SRR21396296	wastewater
+SRR21396297	wastewater
+SRR21396298	wastewater
+SRR21396299	wastewater
+SRR21396300	wastewater
+(PRJNA875025)	wastewater
+SRR21285873	wastewater
+SRR21285874	wastewater
+SRR21285875	wastewater
+SRR21285876	wastewater
+SRR21285877	wastewater
+SRR21285878	wastewater
+SRR21285879	wastewater
+SRR20852506	wastewater
+SRR20852507	wastewater
+SRR20852508	wastewater
+SRR20852509	wastewater
+SRR20852510	wastewater
+SRR20852511	wastewater
+SRR20852512	wastewater
+SRR20852513	wastewater
+SRR20852514	wastewater
+SRR20852515	wastewater
+SRR20852516	wastewater
+SRR20852517	wastewater
+SRR20852518	wastewater
+SRR20852519	wastewater
+SRR20852520	wastewater
+SRR20852521	wastewater
+SRR20852522	wastewater
+SRR20852523	wastewater
+SRR20852524	wastewater
+SRR20852525	wastewater
+SRR20705915	wastewater
+SRR20705917	wastewater
+SRR20705919	wastewater
+SRR20705920	wastewater
+SRR20705921	wastewater
+SRR20705930	wastewater
+SRR20705933	wastewater
+SRR20705935	wastewater
+SRR20702428	wastewater
+SRR20702429	wastewater
+SRR20702430	wastewater
+SRR20702431	wastewater
+SRR20702432	wastewater
+SRR20702433	wastewater
+SRR20702434	wastewater
+SRR20702435	wastewater
+SRR20702436	wastewater
+SRR20702437	wastewater
+SRR20702438	wastewater
+SRR20702439	wastewater
+SRR20702440	wastewater
+SRR20702441	wastewater
+(PRJEB45516 )	wastewater
+(PRJDB6962)	wastewater
+SRR18715497	wastewater
+SRR18715498	wastewater
+SRR18715499	wastewater
+SRR18715500	wastewater
+SRR18715501	wastewater
+SRR18715502	wastewater
+SRR18715503	wastewater
+SRR18715504	wastewater
+SRR18715505	wastewater
+SRR18715506	wastewater
+SRR18715507	wastewater
+SRR18715508	wastewater
+SRR18715509	wastewater
+SRR18715510	wastewater
+SRR18715511	wastewater
+SRR18715512	wastewater
+SRR18715513	wastewater
+SRR18218721	wastewater
+SRR18218722	wastewater
+SRR18218723	wastewater
+SRR18218724	wastewater
+SRR18218732	wastewater
+SRR18218733	wastewater
+SRR17818314	wastewater
+SRR17818315	wastewater
+SRR17818316	wastewater
+SRR17818317	wastewater
+SRR17818318	wastewater
+SRR17818319	wastewater
+SRR17818320	wastewater
+SRR17818321	wastewater
+SRR17818322	wastewater
+SRR17818323	wastewater
+SRR17818324	wastewater
+SRR17818325	wastewater
+SRR17818326	wastewater
+SRR17818327	wastewater
+SRR17818328	wastewater
+SRR17818329	wastewater
+SRR17818330	wastewater
+SRR17818331	wastewater
+SRR17535930	wastewater
+SRR17535934	wastewater
+SRR17535939	wastewater
+SRR17102670	wastewater
+SRR17102671	wastewater
+SRR17102672	wastewater
+SRR17102673	wastewater
+SRR17102674	wastewater
+SRR17102675	wastewater
+SRR17102676	wastewater
+SRR17102677	wastewater
+SRR17102678	wastewater
+SRR17102679	wastewater
+SRR17102680	wastewater
+SRR17102681	wastewater
+SRR16308647	wastewater
+SRR16308648	wastewater
+SRR16308649	wastewater
+SRR16308650	wastewater
+SRR16308651	wastewater
+SRR16308652	wastewater
+SRR16308653	wastewater
+SRR16308654	wastewater
+SRR16308655	wastewater
+SRR16308656	wastewater
+SRR16308657	wastewater
+SRR16308658	wastewater
+SRR16214401	wastewater
+SRR16214402	wastewater
+SRR16214403	wastewater
+SRR16214404	wastewater
+SRR16214410	wastewater
+SRR16214411	wastewater
+SRR16214412	wastewater
+SRR16214413	wastewater
+SRR16214414	wastewater
+SRR16214415	wastewater
+SRR16214416	wastewater
+SRR16214417	wastewater
+SRR16214418	wastewater
+SRR16214419	wastewater
+SRR16214420	wastewater
+SRR16214421	wastewater
+SRR16214422	wastewater
+SRR16214423	wastewater
+SRR16214424	wastewater
+SRR16214425	wastewater
+SRR16214426	wastewater
+SRR16214427	wastewater
+SRR16214428	wastewater
+SRR16214429	wastewater
+SRR16214430	wastewater
+SRR16214431	wastewater
+SRR16214432	wastewater
+SRR16214433	wastewater
+SRR16214434	wastewater
+SRR16214435	wastewater
+ERR4682853	wastewater
+ERR4678603	wastewater
+ERR4682452	wastewater
+ERR4682448	wastewater
+ERR4682454	wastewater
+ERR4682455	wastewater
+ERR3563097	wastewater
+ERR3562938	wastewater
+(PRJEB40816)	wastewater
+(PRJEB40815)	wastewater
+(PRJEB40798)	wastewater
+SRR12978827	wastewater
+SRR12978828	wastewater
+SRR12978829	wastewater
+SRR12978830	wastewater
+SRR12978831	wastewater
+SRR12978832	wastewater
+SRR12978833	wastewater
+SRR12978834	wastewater
+SRR12978835	wastewater
+SRR12978836	wastewater
+SRR12978837	wastewater
+SRR12978838	wastewater
+SRR12978839	wastewater
+SRR12978840	wastewater
+SRR12978841	wastewater
+SRR12978842	wastewater
+SRR12917030	wastewater
+SRR12917031	wastewater
+SRR12917032	wastewater
+SRR12917036	wastewater
+SRR12917040	wastewater
+SRR12917041	wastewater
+SRR12917042	wastewater
+SRR12917043	wastewater
+SRR12917046	wastewater
+SRR12917047	wastewater
+SRR12917048	wastewater
+SRR12917049	wastewater
+SRR12917051	wastewater
+SRR12917052	wastewater
+SRR12712865	wastewater
+SRR12664565	wastewater
+(PRJEB27621)	wastewater 
+SRR11626792	WTTP sludge
+SRR11626794	WTTP sludge
+SRR11626796	WTTP sludge
+SRR11626798	WTTP sludge
+SRR11626800	WTTP sludge
+SRR11626793	wastewater
+SRR11626795	wastewater
+SRR11626797	wastewater
+SRR11626799	wastewater
+SRR11626801	wastewater
+SRR11294019	wastewater
+SRR11294026	wastewater
+SRR11294033	wastewater
+SRR11294034	wastewater
+SRR11294035	wastewater
+(PRJNA524094)	wastewater
+SRR10688476	wastewater
+SRR10688478	wastewater
+SRR10688479	wastewater
+ERR3563093	wastewater
+ERR3563073	wastewater
+ERR3563065	wastewater
+SRR10178536	wastewater
+SRR10178537	wastewater
+SRR10178538	wastewater
+ERR3519521	wastewater
+ERR3519522	wastewater
+ERR3519523	wastewater
+ERR3519524	wastewater
+ERR3519525	wastewater
+ERR3519526	wastewater
+ERR3519527	wastewater
+SRR10059213	wastewater
+SRR10059214	wastewater
+SRR10059215	wastewater
+SRR10059216	wastewater
+SRR10059217	wastewater
+SRR10059218	wastewater
+SRR10059219	wastewater
+SRR10059220	wastewater
+SRR10059221	wastewater
+SRR10059222	wastewater
+SRR8749020	wastewater
+SRR8749021	wastewater
+SRR8749022	wastewater
+SRR8749023	wastewater
+SRR8749024	wastewater
+SRR8749025	wastewater
+SRR9668452	wastewater
+SRR9637882	WTTP sludge
+SRR9637883	WTTP sludge
+SRR9637884	WTTP sludge
+SRR9637885	WTTP sludge
+SRR9030452	wastewater
+SRR9030453	wastewater
+SRR9030454	wastewater
+SRR9030455	wastewater
+SRR9030456	wastewater
+SRR9030457	wastewater
+SRR9007739	wastewater
+SRR9007741	wastewater
+SRR8944124	wastewater
+SRR8944125	wastewater
+SRR8944126	wastewater
+SRR8715491	WTTP sludge
+SRR8715495	wastewater
+SRR8715496	wastewater
+SRR8715497	WTTP sludge
+SRR8715498	WTTP sludge
+(PRJEB13831)	wastewater
+SRR8224500	wastewater
+SRR8224501	wastewater
+SRR14455375	wastewater
+SRR8583493	wastewater
+SRR8223441	wastewater
+SRR8208343	wastewater
+SRR8208344	wastewater
+SRR8208345	wastewater
+SRR8208346	wastewater
+SRR8208347	wastewater
+SRR8208348	wastewater
+SRR8208349	wastewater
+SRR8205411	wastewater
+SRR8206192	wastewater
+SRR7638747	wastewater
+SRR7638748	wastewater
+SRR7638749	wastewater
+SRR7638750	wastewater
+(PRJEB27054)	wastewater
+SRR6837549	wastewater
+SRR6837550	wastewater
+SRR6837551	wastewater
+SRR6837552	wastewater
+SRR6837553	wastewater
+SRR6837554	wastewater
+SRR6837555	wastewater
+SRR6837556	wastewater
+SRR6837557	wastewater
+SRR6837558	wastewater
+SRR6837559	wastewater
+SRR6837560	wastewater
+SRR6837561	wastewater
+SRR6837562	wastewater
+SRR6837563	wastewater
+SRR6837564	wastewater
+SRR6837565	wastewater
+SRR6837566	wastewater
+SRR6837567	wastewater
+SRR6837568	wastewater
+SRR6837569	wastewater
+SRR6837570	wastewater
+SRR6837571	wastewater
+SRR6837572	wastewater
+SRR6837573	wastewater
+SRR6837574	wastewater
+SRR6837575	wastewater
+SRR6837576	wastewater
+SRR6837577	wastewater
+SRR6837578	wastewater
+SRR6837579	wastewater
+SRR6837580	wastewater
+SRR6837581	wastewater
+SRR6837582	wastewater
+SRR6837583	wastewater
+SRR6837584	wastewater
+SRR6800319	WTTP sludge
+SRR6800320	WTTP sludge
+SRR6800321	WTTP sludge
+SRR6800322	WTTP sludge
+SRR6800333	wastewater
+SRR6705639	wastewater
+SRR6429784	wastewater
+SRR6429785	wastewater
+SRR6429786	wastewater
+SRR6429787	wastewater
+SRR6429788	wastewater
+SRR6429789	wastewater
+SRR6429790	wastewater
+SRR6429791	wastewater
+SRR6429792	wastewater
+SRR6429793	wastewater
+SRR6429794	wastewater
+SRR6429795	wastewater
+SRR6429796	wastewater
+SRR6429797	wastewater
+SRR6429798	wastewater
+SRR6429799	wastewater
+SRR6429800	wastewater
+SRR6429801	wastewater
+SRR6429802	wastewater
+SRR6429803	wastewater
+SRR6429804	wastewater
+SRR6429805	wastewater
+SRR6158302	wastewater
+SRR6158308	lake water
+SRR6158309	wastewater
+SRR6158313	wastewater
+SRR6041129	wastewater
+SRR6041130	wastewater
+SRR5998429	wastewater
+SRR5630624	wastewater
+SRR5123278	wastewater
+SRR5123279	wastewater
+SRR5123280	wastewater
+SRR5123281	wastewater
+SRR5123282	wastewater
+SRR5123283	wastewater
+SRR5123284	wastewater
+SRR5123285	wastewater
+SRR5123286	wastewater
+SRR5123287	wastewater
+SRR5123288	wastewater
+SRR5123289	wastewater
+SRR5123290	wastewater
+SRR5123291	wastewater
+SRR5123292	wastewater
+SRR5123293	wastewater
+SRR5123294	wastewater
+SRR5123295	wastewater
+SRR2938129	wastewater
+SRR2938130	wastewater
+SRR2938131	wastewater
+SRR2938132	wastewater
+ERR977423	WTTP sludge
+ERR977424	WTTP sludge
+ERR977425	WTTP sludge
+ERR977411	WTTP sludge
+ERR977412	WTTP sludge
+ERR977413	WTTP sludge
+ERR977414	WTTP sludge
+ERR977415	WTTP sludge
+ERR977416	WTTP sludge
+SRR1106691	wastewater
+SRR1106693	wastewater
+SRR1106699	wastewater
+SRR1106700	wastewater
+SRR1106701	wastewater
+SRR1106703	wastewater
+SRR1106705	wastewater
+SRR1106773	wastewater
+SRR1106709	wastewater
+SRR1106711	wastewater
+SRR1144841	wastewater
+SRR1145849	WTTP sludge
+SRR15237801	wastewater
+SRR15237802	wastewater
+SRR15237805	wastewater
+SRR15237806	wastewater
+SRR15237807	wastewater
+SRR15237808	wastewater
+SRR15237809	wastewater
+SRR15237810	wastewater
+SRR15237812	wastewater
+SRR15237813	wastewater
+SRR15237817	wastewater
+SRR15237818	wastewater
+ERR10034876	aquaculture
+ERR10034877	aquaculture
+ERR10034878	aquaculture
+ERR10034879	aquaculture
+ERR10034880	aquaculture
+ERR10034881	aquaculture
+ERR10034882	aquaculture
+ERR10034883	aquaculture
+ERR10034884	aquaculture
+ERR10034885	aquaculture
+ERR10034886	aquaculture
+ERR10034887	aquaculture
+ERR10034888	aquaculture
+ERR10034889	aquaculture
+ERR10034890	aquaculture
+ERR10034891	aquaculture
+ERR10034892	aquaculture
+ERR10034893	aquaculture
+ERR10034894	aquaculture
+ERR10034895	aquaculture
+ERR10034896	aquaculture
+ERR10034897	aquaculture
+ERR10034898	aquaculture
+ERR10034899	aquaculture
+SRR16282454	aquaculture
+SRR16282455	aquaculture
+SRR16282456	aquaculture
+SRR16282457	aquaculture
+SRR16282458	aquaculture
+SRR16282459	aquaculture
+SRR16282460	aquaculture
+SRR16282461	aquaculture
+SRR16282462	aquaculture
+SRR16282463	aquaculture
+SRR16282464	aquaculture
+SRR16282465	aquaculture
+SRR14556198	aquaculture
+SRR14556199	aquaculture
+SRR14556200	aquaculture
+SRR14556201	aquaculture
+SRR14556202	aquaculture
+SRR14556203	aquaculture
+SRR14556204	aquaculture
+SRR14556205	aquaculture
+SRR14556206	aquaculture
+SRR14556207	aquaculture
+SRR14556208	aquaculture
+SRR14556209	aquaculture
+SRR14556210	aquaculture
+SRR14556211	aquaculture
+SRR14556212	aquaculture
+SRR14556213	aquaculture
+SRR14556214	aquaculture
+SRR14556215	aquaculture
+SRR14556216	aquaculture
+SRR14556217	aquaculture
+SRR14556218	aquaculture
+SRR14556219	aquaculture
+SRR14556220	aquaculture
+SRR14556221	aquaculture
+SRR14556222	aquaculture
+SRR14556223	aquaculture
+SRR14556224	aquaculture
+SRR14556225	aquaculture
+SRR14556226	aquaculture
+SRR14556227	aquaculture
+SRR14556228	aquaculture
+SRR14556229	aquaculture
+SRR14556230	aquaculture
+SRR14556231	aquaculture
+SRR14556232	aquaculture
+SRR14556233	aquaculture
+SRR14556234	aquaculture
+SRR14556235	aquaculture
+SRR14556236	aquaculture
+SRR14556237	aquaculture
+SRR14556238	aquaculture
+SRR14556239	aquaculture
+SRR14556240	aquaculture
+SRR14556241	aquaculture
+SRR14556242	aquaculture
+SRR14556243	aquaculture
+SRR14556244	aquaculture
+SRR14556245	aquaculture
+SRR14556246	aquaculture
+SRR14556247	aquaculture
+SRR14556248	aquaculture
+SRR14556249	aquaculture
+SRR14556250	aquaculture
+SRR14556251	aquaculture
+SRR14556252	aquaculture
+SRR14556253	aquaculture
+SRR14556254	aquaculture
+SRR14556255	aquaculture
+SRR14556256	aquaculture
+SRR14556257	aquaculture
+SRR13356406	aquaculture
+SRR13356414	aquaculture
+SRR13356415	aquaculture
+SRR7764474	aquaculture
+SRR7764475	aquaculture
+SRR7764476	aquaculture
+SRR7764477	aquaculture
+SRR7764478	aquaculture
+SRR7764479	aquaculture
+SRR7764480	aquaculture
+SRR7764481	aquaculture
+SRR7764482	aquaculture
+SRR7764483	aquaculture
+SRR7764484	aquaculture
+SRR7764485	aquaculture
+SRR7764486	aquaculture
+SRR7764487	aquaculture
+SRR7764488	aquaculture
+SRR7764489	aquaculture
+SRR7764490	aquaculture
+SRR7764491	aquaculture
+SRR7764492	aquaculture
+SRR7764493	aquaculture
+SRR7764494	aquaculture
+SRR7764495	aquaculture
+SRR7764496	aquaculture
+ERR2094164	aquaculture
+ERR2094165	aquaculture
+ERR2094166	aquaculture
+ERR2094167	aquaculture
+ERR2094168	aquaculture
+ERR2094169	aquaculture
+ERR2094170	aquaculture
+ERR2094171	aquaculture
+ERR2094172	aquaculture
+ERR2094173	aquaculture
+ERR2094174	aquaculture
+ERR2094175	aquaculture
+ERR2094176	aquaculture
+SRR18577679	aquaculture
+SRR18577680	aquaculture
+SRR18577681	aquaculture
+SRR18577682	aquaculture
+SRR18577683	aquaculture
+SRR18577684	aquaculture
+SRR13566417	aquaculture
+SRR13566418	aquaculture
+SRR13566419	aquaculture
+SRR13566420	aquaculture
+SRR13566421	aquaculture
+SRR13566422	aquaculture
+SRR13566423	aquaculture
+SRR13566424	aquaculture
+SRR13566425	aquaculture
+SRR13566426	aquaculture
+SRR13566427	aquaculture
+SRR13566428	aquaculture
+SRR13566429	aquaculture
+SRR13566430	aquaculture
+SRR13566431	aquaculture
+SRR13566432	aquaculture
+SRR13566433	aquaculture
+SRR13566434	aquaculture
+SRR13566435	aquaculture
+SRR13566436	aquaculture
+SRR13566437	aquaculture
+SRR13566438	aquaculture
+SRR13566439	aquaculture
+SRR13566440	aquaculture
+SRR13566441	aquaculture
+SRR13566442	aquaculture
+SRR13566443	aquaculture
+SRR13566444	aquaculture
+SRR13566445	aquaculture
+SRR13566446	aquaculture
+SRR6058005	aquaculture
+SRR6058006	aquaculture
+SRR6058007	aquaculture
+SRR6058008	aquaculture
+SRR6058009	aquaculture
+SRR6058010	aquaculture
+SRR6058011	aquaculture
+SRR6058012	aquaculture
+SRR6058013	aquaculture
+SRR6058014	aquaculture
+SRR6058015	aquaculture
+SRR6058016	aquaculture
+SRR21393942	aquaculture
+SRR21393943	aquaculture
+SRR21393944	aquaculture
+SRR21393945	aquaculture
+SRR21393946	aquaculture
+SRR21393947	aquaculture
+SRR21393948	aquaculture
+SRR21393949	aquaculture
+SRR21393950	aquaculture
+SRR8246563	aquaculture
+SRR7716262	aquaculture
+ERR5094847	aquaculture
+ERR5094848	aquaculture
+ERR5094849	aquaculture
+ERR5094850	aquaculture
+ERR5094851	aquaculture
+ERR5094852	aquaculture
+ERR5094853	aquaculture
+ERR5094854	aquaculture
+ERR5094855	aquaculture
+ERR5094856	aquaculture
+ERR5094857	aquaculture
+ERR5094858	aquaculture
+ERR5094859	aquaculture
+ERR5094860	aquaculture
+ERR5094861	aquaculture
+ERR5094862	aquaculture
+ERR5094863	aquaculture
+ERR5094864	aquaculture
+ERR5094865	aquaculture
+ERR5094866	aquaculture
+ERR5094867	aquaculture
+ERR5094868	aquaculture
+ERR5094869	aquaculture
+ERR5094870	aquaculture
+ERR5094871	aquaculture
+ERR5094872	aquaculture
+ERR5094873	aquaculture
+ERR5094874	aquaculture
+ERR5094875	aquaculture
+ERR5094876	aquaculture
+ERR5094877	aquaculture
+ERR5094878	aquaculture
+ERR5094879	aquaculture
+ERR5094880	aquaculture
+ERR5094881	aquaculture
+ERR5094882	aquaculture
+ERR5094883	aquaculture
+ERR5094884	aquaculture
+ERR5094885	aquaculture
+ERR5094886	aquaculture
+ERR5094887	aquaculture
+ERR5094888	aquaculture
+ERR5094889	aquaculture
+ERR5094890	aquaculture
+ERR5094891	aquaculture
+ERR5094892	aquaculture
+ERR5094893	aquaculture
+ERR5094894	aquaculture
+ERR5094895	aquaculture
+ERR5094896	aquaculture
+ERR5094897	aquaculture
+ERR5094899	aquaculture
+ERR5094900	aquaculture
+ERR5094901	aquaculture
+ERR5094902	aquaculture
+ERR5094903	aquaculture
+ERR5094904	aquaculture
+ERR5094905	aquaculture
+SRR7638764	aquaculture
+SRR7638778	aquaculture
+SRR1022348	aquaculture
+SRR7107431	aquaculture
+SRR7107432	aquaculture
+SRR7107433	aquaculture
+SRR7107434	aquaculture
+SRR7107435	aquaculture
+SRR7107436	aquaculture
+SRR7107437	aquaculture
+SRR7107438	aquaculture
+SRR7107439	aquaculture
+SRR7107440	aquaculture
+SRR7107441	aquaculture
+SRR7107442	aquaculture
+SRR7107443	aquaculture
+SRR7107444	aquaculture
+SRR7107445	aquaculture
+SRR7107446	aquaculture
+ERR3489835	aquaculture
+SRR17477666	agriculture
+SRR17477667	agriculture
+SRR17477668	agriculture
+SRR17477669	agriculture
+SRR17477670	agriculture
+SRR16608035	agriculture
+SRR16608036	agriculture
+SRR16608037	agriculture
+SRR14712083	agriculture
+SRR14712089	agriculture
+SRR14712094	agriculture
+SRR14712100	agriculture
+SRR14712105	agriculture
+SRR14712111	agriculture
+SRR14712116	agriculture
+SRR14712118	agriculture
+SRR14640481	agriculture
+SRR14640482	agriculture
+SRR14640483	agriculture
+SRR14640486	agriculture
+SRR14640487	agriculture
+SRR14320320	agriculture
+SRR14320321	agriculture
+SRR14320322	agriculture
+SRR14320323	agriculture
+SRR14320324	agriculture
+SRR14320325	agriculture
+SRR14320326	agriculture
+SRR14320327	agriculture
+SRR14320328	agriculture
+SRR14320329	agriculture
+SRR14320330	agriculture
+SRR14320331	agriculture
+SRR13590450	agriculture
+SRR13590451	agriculture
+SRR13590452	agriculture
+SRR13590453	agriculture
+SRR13590454	agriculture
+SRR13590455	agriculture
+SRR13590456	agriculture
+SRR13590457	agriculture
+SRR12149476	agriculture
+SRR12060228	agriculture
+SRR12060226	agriculture
+SRR12060221	agriculture
+SRR12060213	agriculture
+SRR11843814	agriculture
+SRR11843815	agriculture
+SRR11843816	agriculture
+SRR11843817	agriculture
+SRR11843818	agriculture
+SRR11843819	agriculture
+SRR11843820	agriculture
+SRR11843821	agriculture
+SRR11843822	agriculture
+SRR11843823	agriculture
+SRR11843824	agriculture
+SRR11843825	agriculture
+SRR11843826	agriculture
+SRR11843827	agriculture
+SRR11843828	agriculture
+SRR11843829	agriculture
+SRR11843830	agriculture
+SRR11843831	agriculture
+SRR11843832	agriculture
+SRR11843833	agriculture
+SRR11843834	agriculture
+SRR11843835	agriculture
+SRR11843836	agriculture
+SRR11843837	agriculture
+SRR11843838	agriculture
+SRR11843839	agriculture
+SRR11843840	agriculture
+SRR11829121	agriculture
+SRR11829131	agriculture
+SRR11829106	agriculture
+SRR11829141	agriculture
+SRR11622294	agriculture
+SRR11622295	agriculture
+SRR11622287	agriculture
+SRR11615638	agriculture
+SRR11615318	agriculture
+SRR11615312	agriculture
+SRR11615276	agriculture
+SRR11615275	agriculture
+SRR11614855	agriculture
+SRR11614802	agriculture
+SRR11614243	agriculture
+SRR11614242	agriculture
+SRR11613413	agriculture
+SRR11613400	agriculture
+SRR11613358	agriculture
+SRR11613357	agriculture
+SRR11613032	agriculture
+SRR11449177	agriculture
+SRR11449178	agriculture
+SRR11449179	agriculture
+SRR11449180	agriculture
+SRR11449181	agriculture
+SRR11449182	agriculture
+SRR11449183	agriculture
+SRR11449184	agriculture
+SRR11449185	agriculture
+SRR11449186	agriculture
+SRR11449187	agriculture
+SRR11449188	agriculture
+ERR3258494	agriculture
+SRR2164508	agriculture
+SRR2164509	agriculture
+SRR2164510	agriculture
+SRR5831666	aquaculture
+SRR5831667	aquaculture
+SRR5831668	aquaculture
+SRR17938967	agriculture
+SRR17938968	agriculture
+SRR17938969	agriculture
+SRR17938970	agriculture
+SRR17938971	agriculture
+SRR17938972	agriculture
+SRR17938973	agriculture
+SRR17938974	agriculture
+SRR17938975	agriculture
+SRR17938976	agriculture
+SRR17938977	agriculture
+SRR17938978	agriculture
+SRR17938979	agriculture
+SRR17938980	agriculture
+SRR17938981	agriculture
+SRR17938982	agriculture
+SRR606836	agriculture
+SRR606837	agriculture
+SRR606840	agriculture
+SRR606841	agriculture
+SRR606844	agriculture
+SRR606845	agriculture
+SRR14715184	aquaculture
+SRR14779626	aquaculture
+SRR14778841	aquaculture
+SRR14778739	aquaculture
+SRR14773348	aquaculture
+SRR14772021	aquaculture
+SRR14771937	aquaculture
+SRR14715239	aquaculture
+SRR14715196	aquaculture
+SRR10767023	agriculture
+SRR10767024	agriculture
+SRR10767025	agriculture
+SRR10767026	agriculture
+SRR10767027	agriculture
+SRR10767028	agriculture
+SRR5639132	agriculture
+SRR5639133	agriculture
+SRR5639135	agriculture
+SRR5639136	agriculture
+SRR5639137	agriculture
+SRR5639138	agriculture
+SRR5639139	agriculture
+SRR5639141	agriculture
+SRR5639169	agriculture
+SRR5639170	agriculture
+SRR5639171	agriculture
+SRR5639172	agriculture
+SRR5639177	agriculture
+SRR5639178	agriculture
+SRR5639179	agriculture
+SRR5639180	agriculture
+SRR5639191	agriculture
+SRR14660885	agriculture
+SRR14660886	agriculture
+SRR14660887	agriculture
+SRR14660888	agriculture
+SRR14660889	agriculture
+SRR14660890	agriculture
+SRR14660891	agriculture
+SRR14660892	agriculture
+SRR14660893	agriculture
+SRR14660894	agriculture
+SRR14660895	agriculture
+SRR14660896	agriculture
+SRR5823596	agriculture
+SRR5823597	agriculture
+SRR5823598	agriculture
+SRR5823603	agriculture
+SRR5823604	agriculture
+SRR5823605	agriculture
+SRR5823606	agriculture
+SRR5823607	agriculture
+SRR5823608	agriculture
+SRR5823609	agriculture
+SRR5823611	agriculture
+SRR5260272	agriculture
+SRR5260273	agriculture
+SRR5260274	agriculture
+SRR5260275	agriculture
+SRR5260182	agriculture
+SRR5260183	agriculture
+SRR5260184	agriculture
+SRR5260185	agriculture
+SRR5260186	agriculture
+SRR5260187	agriculture
+SRR5260188	agriculture
+SRR5260067	agriculture
+SRR5260068	agriculture
+SRR5260069	agriculture
+SRR5260070	agriculture
+SRR5260071	agriculture
+SRR5260072	agriculture
+SRR5260073	agriculture
+SRR5259938	agriculture
+SRR5259939	agriculture
+SRR5259940	agriculture
+SRR5259830	agriculture
+SRR5259839	agriculture
+SRR5260217	agriculture
+SRR2071948	agriculture
+SRR2071949	agriculture
+SRR2070865	agriculture
+SRR2070862	agriculture
+SRR2070858	agriculture
+ERR4245117	agriculture
+ERR4245118	agriculture
+ERR4245119	agriculture
+ERR4245120	agriculture
+ERR4245121	agriculture
+ERR4245122	agriculture
+ERR4245123	agriculture
+ERR4245124	agriculture
+ERR4245125	agriculture
+ERR4245126	agriculture
+ERR4245127	agriculture
+ERR4245128	agriculture
+ERR4245129	agriculture
+ERR4245130	agriculture
+ERR4245131	agriculture
+ERR4245132	agriculture
+ERR4245133	agriculture
+ERR4245134	agriculture
+ERR4245135	agriculture
+ERR4245136	agriculture
+ERR4245137	agriculture
+ERR4245138	agriculture
+ERR4245139	agriculture
+ERR4245140	agriculture
+ERR4245141	agriculture
+ERR4245142	agriculture
+ERR4245143	agriculture
+ERR4245144	agriculture
+ERR4245145	agriculture
+ERR4245146	agriculture
+ERR4245147	agriculture
+ERR4245148	agriculture
+SRR20019787	agriculture
+SRR20019788	agriculture
+SRR20019789	agriculture
+SRR20019790	agriculture
+SRR20019791	agriculture
+SRR20019792	agriculture
+SRR20019793	agriculture
+SRR20019794	agriculture
+SRR20019795	agriculture
+SRR20019796	agriculture
+SRR20019797	agriculture
+SRR20019798	agriculture
+SRR20019799	agriculture
+SRR20019800	agriculture
+SRR20019801	agriculture
+SRR20019802	agriculture
+SRR20019803	agriculture
+SRR20019804	agriculture
+ERR3943989	agriculture
+ERR3943990	agriculture
+ERR3943991	agriculture
+ERR3943992	agriculture
+ERR3943993	agriculture
+ERR3943994	agriculture
+ERR3943995	agriculture
+ERR3943996	agriculture
+ERR3943997	agriculture
+ERR3929365	agriculture
+ERR3929366	agriculture
+ERR3929367	agriculture
+ERR3929368	agriculture
+ERR3929369	agriculture
+ERR3929370	agriculture
+ERR3929371	agriculture
+ERR3929372	agriculture
+ERR3929373	agriculture
+SRR17012554	agriculture
+SRR17012555	agriculture
+SRR17012556	agriculture
+SRR17012557	agriculture
+SRR17012558	agriculture
+SRR17012559	agriculture
+SRR17012560	agriculture
+SRR17012561	agriculture
+SRR17012562	agriculture
+SRR17012563	agriculture
+SRR17012564	agriculture
+SRR17012565	agriculture
+SRR15413209	agriculture
+SRR15413210	agriculture
+SRR15413211	agriculture
+SRR15413212	agriculture
+SRR15413213	agriculture
+SRR15413214	agriculture
+SRR15413215	agriculture
+SRR15413216	agriculture
+SRR15413217	agriculture
+SRR15413218	agriculture
+SRR15413219	agriculture
+SRR15413220	agriculture
+SRR14292184	agriculture
+SRR14292185	agriculture
+SRR14292186	agriculture
+SRR14292187	agriculture
+SRR14292188	agriculture
+SRR14292189	agriculture
+SRR14292196	agriculture
+SRR14292197	agriculture
+SRR11829677	agriculture
+SRR11829678	agriculture
+SRR11829679	agriculture
+SRR11829739	agriculture
+SRR11743100	agriculture
+SRR11742948	agriculture
+SRR11742949	agriculture
+SRR11742809	agriculture
+SRR14292192	agriculture
+SRR11742812	agriculture
+SRR11742962	agriculture
+SRR11743025	agriculture
+SRR11743028	agriculture
+SRR10260006	agriculture
+SRR10260008	agriculture
+SRR10260009	agriculture
+SRR10260010	agriculture
+SRR10159356	agriculture
+SRR9948787	agriculture
+SRR9948788	agriculture
+SRR9948792	agriculture
+SRR9948793	agriculture
+SRR9948794	agriculture
+SRR9948795	agriculture
+SRR9948796	agriculture
+SRR9948808	agriculture
+SRR9948809	agriculture
+SRR8199877	agriculture
+SRR8199878	agriculture
+SRR6831646	agriculture
+SRR6821719	agriculture
+SRR5580658	forest soil
+SRR5580692	forest soil
+SRR5512132	agriculture
+SRR5512133	agriculture
+SRR5512134	agriculture
+SRR5512135	agriculture
+SRR5512136	agriculture
+SRR5512137	agriculture
+SRR5512138	agriculture
+SRR5512139	agriculture
+SRR5512140	agriculture
+SRR5512141	agriculture
+SRR5512142	agriculture
+SRR5512143	agriculture
+SRR5512144	agriculture
+SRR5512145	agriculture
+SRR5512146	agriculture
+SRR5512147	agriculture
+SRR5381887	agriculture
+SRR5381855	agriculture
+SRR5381878	agriculture
+SRR5381880	agriculture
+SRR5381886	agriculture
+SRR5381892	agriculture
+ERR436052	agriculture
+ERR436053	agriculture
+ERR436054	agriculture
+ERR436055	agriculture
+ERR436056	agriculture
+SRR1531574	agriculture
+SRR12738803	agriculture
+SRR12738806	agriculture
+SRR12738807	agriculture
+SRR12738811	agriculture
+SRR12738812	agriculture
+SRR12738813	agriculture
+SRR12738814	agriculture
+SRR12738815	agriculture
+SRR12738816	agriculture
+SRR12738817	agriculture
+SRR12738818	agriculture
+SRR12738823	agriculture
+SRR12738824	agriculture
+SRR12738827	agriculture
+SRR12738828	agriculture
+SRR12738831	agriculture
+SRR12738832	agriculture
+SRR12738833	agriculture
+SRR12738834	agriculture
+SRR12738835	agriculture
+SRR12738836	agriculture
+SRR9915571	agriculture
+SRR9915572	agriculture
+SRR9915573	agriculture
+SRR9915574	agriculture
+SRR9915575	agriculture
+SRR9915576	agriculture
+
+
+
+
+
+
